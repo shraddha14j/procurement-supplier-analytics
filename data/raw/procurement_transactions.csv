@@ -1,0 +1,501 @@
+invoice_id,invoice_date,vendor_name,category,sub_category,country,city,region,vendor_tier,invoice_amount,discount_amount,item_quantity
+INV-00001,2024-02-22,Rapid Freight,Indirect Goods & Services,Maintenance & Repair,United States,Atlanta,North America,Tier 1,21570.92,546.8,4847
+INV-00002,2024-11-04,Alpha Industrial Supplies,Packaging,Corrugate,United States,Troy,North America,Tier 3,8870.4,315.72,1638
+INV-00003,2024-01-04,Metro Logistics,Packaging,Corrugate,Mexico,Mexico City,North America,Tier 3,50498.32,5001.22,3472
+INV-00004,2024-02-22,Global Parts Co,Hardware,Tools,United States,Detroit,North America,Tier 2,19086.36,1793.82,802
+INV-00005,2024-08-23,Rapid Freight,Hardware,Tools,Canada,Toronto,North America,Tier 1,23219.75,343.18,3110
+INV-00006,2024-04-08,Global Parts Co,Indirect Goods & Services,Sales & Marketing,Canada,Toronto,North America,Tier 1,75377.95,3752.3,1876
+INV-00007,2024-08-20,NexGen Maintenance,Hardware,Fasteners,United States,Detroit,North America,Tier 1,73784.63,3823.07,3042
+INV-00008,2024-02-06,Omega Office Supplies,Hardware,Fasteners,United States,Atlanta,North America,Tier 3,59952.91,5107.4,1411
+INV-00009,2024-11-23,Rapid Freight,Logistics,Freight,Mexico,Mexico City,North America,Tier 1,32874.26,3907.03,2666
+INV-00010,2024-02-03,Prime Hardware,Indirect Goods & Services,Office Supplies,United States,Troy,North America,Tier 3,68623.85,3714.48,2587
+INV-00011,2024-08-22,Metro Logistics,Logistics,Transportation,Mexico,Mexico City,North America,Tier 2,34233.08,3786.19,1153
+INV-00012,2024-08-07,Omega Office Supplies,Logistics,Transportation,Canada,Toronto,North America,Tier 2,46274.09,4265.15,2975
+INV-00013,2024-02-26,Metro Logistics,Logistics,Freight,Canada,Toronto,North America,Tier 3,42455.33,3954.12,1320
+INV-00014,2024-08-27,Rapid Freight,Packaging,Plastic Packaging,United States,Troy,North America,Tier 2,33320.45,2517.28,4542
+INV-00015,2024-06-23,Global Parts Co,Indirect Goods & Services,Maintenance & Repair,Canada,Toronto,North America,Tier 2,64073.74,6057.91,3571
+INV-00016,2024-05-14,Rapid Freight,Logistics,Warehousing,United States,Troy,North America,Tier 1,81120.54,8626.67,4168
+INV-00017,2024-03-23,Rapid Freight,Indirect Goods & Services,Sales & Marketing,Canada,Toronto,North America,Tier 3,52153.5,1398.36,14
+INV-00018,2024-06-06,Prime Hardware,Hardware,Tools,United States,Troy,North America,Tier 1,10396.89,519.09,1983
+INV-00019,2024-09-29,Metro Logistics,Indirect Goods & Services,Maintenance & Repair,Mexico,Mexico City,North America,Tier 1,69545.95,8177.09,3903
+INV-00020,2024-04-18,Rapid Freight,Logistics,Warehousing,Canada,Toronto,North America,Tier 3,74284.38,4200.42,1657
+INV-00021,2024-03-02,Prime Hardware,Hardware,Tools,United States,Atlanta,North America,Tier 1,37800.41,2530.11,534
+INV-00022,2024-01-04,Global Parts Co,Hardware,Fasteners,Canada,Toronto,North America,Tier 3,47529.41,3551.8,492
+INV-00023,2024-05-01,Summit Packaging,Logistics,Freight,United States,Troy,North America,Tier 3,73209.37,1302.71,3986
+INV-00024,2024-10-22,Vertex Components,Logistics,Transportation,United States,Detroit,North America,Tier 1,61761.62,6612.33,3884
+INV-00025,2024-08-04,BlueLine Services,Packaging,Corrugate,United States,Troy,North America,Tier 2,9142.19,524.9,453
+INV-00026,2024-02-25,Prime Hardware,Indirect Goods & Services,Maintenance & Repair,Mexico,Mexico City,North America,Tier 1,62169.94,6096.71,1568
+INV-00027,2024-02-08,Vertex Components,Packaging,Corrugate,Mexico,Mexico City,North America,Tier 3,16413.0,999.37,812
+INV-00028,2024-03-26,BlueLine Services,Indirect Goods & Services,Maintenance & Repair,United States,Troy,North America,Tier 2,78814.83,8146.03,3953
+INV-00029,2024-07-18,Summit Packaging,Logistics,Warehousing,United States,Troy,North America,Tier 2,14829.52,151.81,2346
+INV-00030,2024-04-07,Summit Packaging,Packaging,Plastic Packaging,Canada,Toronto,North America,Tier 1,56597.19,3595.84,489
+INV-00031,2024-09-28,Metro Logistics,Indirect Goods & Services,Sales & Marketing,United States,Troy,North America,Tier 1,5211.96,325.47,4170
+INV-00032,2024-04-30,BlueLine Services,Indirect Goods & Services,Office Supplies,United States,Troy,North America,Tier 1,50982.95,4296.51,4676
+INV-00033,2024-12-02,Omega Office Supplies,Logistics,Transportation,Canada,Toronto,North America,Tier 3,4338.3,82.51,4292
+INV-00034,2024-05-15,BlueLine Services,Hardware,Tools,United States,Detroit,North America,Tier 1,57256.98,2551.38,2467
+INV-00035,2024-10-15,Global Parts Co,Packaging,Labels,United States,Troy,North America,Tier 1,1782.5,139.62,4414
+INV-00036,2024-02-05,Prime Hardware,Logistics,Transportation,United States,Atlanta,North America,Tier 2,12126.35,586.81,2344
+INV-00037,2024-11-30,Rapid Freight,Logistics,Warehousing,Canada,Toronto,North America,Tier 1,60097.35,4644.6,4553
+INV-00038,2024-02-29,Global Parts Co,Hardware,Machine Parts,United States,Troy,North America,Tier 3,79870.12,1978.54,4542
+INV-00039,2024-04-14,Summit Packaging,Logistics,Warehousing,United States,Atlanta,North America,Tier 3,51805.71,4607.46,4012
+INV-00040,2024-01-23,Alpha Industrial Supplies,Hardware,Fasteners,United States,Troy,North America,Tier 2,54279.89,5494.66,1081
+INV-00041,2024-01-05,Global Parts Co,Hardware,Fasteners,Mexico,Mexico City,North America,Tier 1,47341.16,2700.6,1231
+INV-00042,2024-01-22,Summit Packaging,Indirect Goods & Services,Sales & Marketing,Canada,Toronto,North America,Tier 2,47412.11,2715.6,336
+INV-00043,2024-10-13,BlueLine Services,Hardware,Fasteners,United States,Detroit,North America,Tier 3,57022.41,2788.66,1276
+INV-00044,2024-06-19,BlueLine Services,Logistics,Freight,United States,Detroit,North America,Tier 3,75038.96,954.98,2042
+INV-00045,2024-08-28,Prime Hardware,Hardware,Fasteners,United States,Troy,North America,Tier 1,33133.5,472.47,3780
+INV-00046,2024-07-23,NexGen Maintenance,Hardware,Tools,United States,Detroit,North America,Tier 2,19725.58,1629.4,578
+INV-00047,2024-10-01,NexGen Maintenance,Hardware,Tools,Canada,Toronto,North America,Tier 1,34572.98,4077.07,954
+INV-00048,2024-02-25,Omega Office Supplies,Hardware,Fasteners,Canada,Toronto,North America,Tier 2,81852.88,3208.74,2841
+INV-00049,2024-10-22,Prime Hardware,Hardware,Tools,Canada,Toronto,North America,Tier 2,83675.81,1901.2,373
+INV-00050,2024-12-09,Prime Hardware,Packaging,Corrugate,Canada,Toronto,North America,Tier 2,78748.31,5451.72,3543
+INV-00051,2024-06-02,Rapid Freight,Indirect Goods & Services,Sales & Marketing,Canada,Toronto,North America,Tier 2,27368.91,2826.71,3355
+INV-00052,2024-12-06,BlueLine Services,Hardware,Tools,United States,Atlanta,North America,Tier 3,47570.65,1479.56,1435
+INV-00053,2024-04-17,BlueLine Services,Hardware,Tools,Canada,Toronto,North America,Tier 3,71032.91,3084.69,4979
+INV-00054,2024-08-30,Metro Logistics,Hardware,Tools,Mexico,Mexico City,North America,Tier 3,38141.42,1278.01,704
+INV-00055,2024-04-30,Summit Packaging,Hardware,Machine Parts,Canada,Toronto,North America,Tier 1,29155.81,2916.36,1641
+INV-00056,2024-02-07,Vertex Components,Logistics,Freight,United States,Troy,North America,Tier 2,21566.77,1342.85,4725
+INV-00057,2024-12-01,Alpha Industrial Supplies,Logistics,Transportation,Mexico,Mexico City,North America,Tier 1,42527.68,1566.65,3492
+INV-00058,2024-03-03,Vertex Components,Logistics,Freight,Canada,Toronto,North America,Tier 1,40022.19,2854.17,3816
+INV-00059,2024-08-06,Rapid Freight,Hardware,Tools,Canada,Toronto,North America,Tier 2,69460.55,7510.23,1313
+INV-00060,2024-05-21,Rapid Freight,Packaging,Labels,United States,Atlanta,North America,Tier 2,64149.25,6567.92,1969
+INV-00061,2024-06-20,NexGen Maintenance,Hardware,Tools,United States,Troy,North America,Tier 3,60937.77,2181.22,670
+INV-00062,2024-04-19,Global Parts Co,Logistics,Freight,United States,Detroit,North America,Tier 2,33174.96,889.37,3349
+INV-00063,2024-08-03,BlueLine Services,Hardware,Machine Parts,Mexico,Mexico City,North America,Tier 3,35925.04,1176.61,170
+INV-00064,2024-07-18,BlueLine Services,Packaging,Labels,United States,Troy,North America,Tier 3,80190.3,3435.95,4483
+INV-00065,2024-07-18,NexGen Maintenance,Logistics,Warehousing,United States,Detroit,North America,Tier 3,23926.57,1517.44,3322
+INV-00066,2024-07-20,Omega Office Supplies,Logistics,Warehousing,United States,Detroit,North America,Tier 3,83380.65,5732.72,232
+INV-00067,2024-05-13,BlueLine Services,Indirect Goods & Services,Professional Services,United States,Detroit,North America,Tier 2,73815.51,2213.74,1743
+INV-00068,2024-08-03,Summit Packaging,Packaging,Labels,United States,Atlanta,North America,Tier 1,64943.3,3357.82,3862
+INV-00069,2024-11-29,Alpha Industrial Supplies,Indirect Goods & Services,Maintenance & Repair,United States,Atlanta,North America,Tier 1,19834.66,348.06,2035
+INV-00070,2024-12-08,Global Parts Co,Logistics,Freight,Canada,Toronto,North America,Tier 3,13800.12,329.61,1795
+INV-00071,2024-11-06,Global Parts Co,Packaging,Plastic Packaging,United States,Atlanta,North America,Tier 1,65419.44,1861.63,2558
+INV-00072,2024-07-11,BlueLine Services,Indirect Goods & Services,Maintenance & Repair,United States,Atlanta,North America,Tier 3,49366.93,5424.58,1634
+INV-00073,2024-12-16,Omega Office Supplies,Indirect Goods & Services,Office Supplies,United States,Troy,North America,Tier 1,59564.21,2571.63,4646
+INV-00074,2024-09-16,NexGen Maintenance,Indirect Goods & Services,Sales & Marketing,Canada,Toronto,North America,Tier 1,36983.75,1877.4,3451
+INV-00075,2024-08-23,Metro Logistics,Packaging,Corrugate,Mexico,Mexico City,North America,Tier 2,81706.16,6529.5,1452
+INV-00076,2024-10-30,Summit Packaging,Hardware,Machine Parts,Canada,Toronto,North America,Tier 2,66069.88,4039.26,2021
+INV-00077,2024-11-08,BlueLine Services,Indirect Goods & Services,Sales & Marketing,Mexico,Mexico City,North America,Tier 2,21484.53,1313.09,245
+INV-00078,2024-05-12,NexGen Maintenance,Packaging,Labels,United States,Detroit,North America,Tier 2,41954.19,2057.05,4893
+INV-00079,2024-05-03,BlueLine Services,Hardware,Machine Parts,United States,Troy,North America,Tier 2,44396.69,1377.02,4558
+INV-00080,2024-01-09,Global Parts Co,Logistics,Transportation,Mexico,Mexico City,North America,Tier 2,55255.84,3535.84,1825
+INV-00081,2024-08-30,Rapid Freight,Packaging,Plastic Packaging,United States,Detroit,North America,Tier 3,26721.31,1976.61,2826
+INV-00082,2024-05-18,Summit Packaging,Packaging,Plastic Packaging,Canada,Toronto,North America,Tier 2,28786.47,2513.46,1898
+INV-00083,2024-12-19,Metro Logistics,Indirect Goods & Services,Office Supplies,United States,Atlanta,North America,Tier 1,11042.6,761.33,1782
+INV-00084,2024-05-24,Global Parts Co,Packaging,Labels,Canada,Toronto,North America,Tier 1,83034.99,5622.3,2436
+INV-00085,2024-03-05,Summit Packaging,Logistics,Warehousing,United States,Detroit,North America,Tier 1,26390.48,2319.25,456
+INV-00086,2024-02-22,Alpha Industrial Supplies,Hardware,Machine Parts,United States,Detroit,North America,Tier 3,54581.05,5065.51,2339
+INV-00087,2024-05-09,Vertex Components,Packaging,Labels,Mexico,Mexico City,North America,Tier 1,29619.3,3441.9,545
+INV-00088,2024-03-18,Metro Logistics,Packaging,Labels,United States,Troy,North America,Tier 3,49469.78,4230.14,2499
+INV-00089,2024-11-01,Omega Office Supplies,Indirect Goods & Services,Office Supplies,United States,Troy,North America,Tier 1,47878.13,2670.6,4290
+INV-00090,2024-08-07,Summit Packaging,Packaging,Labels,Mexico,Mexico City,North America,Tier 3,25977.66,1941.51,503
+INV-00091,2024-05-02,Metro Logistics,Indirect Goods & Services,Office Supplies,United States,Detroit,North America,Tier 3,23230.27,439.76,624
+INV-00092,2024-05-29,Alpha Industrial Supplies,Logistics,Freight,Mexico,Mexico City,North America,Tier 1,38842.31,2925.57,2370
+INV-00093,2024-05-15,Omega Office Supplies,Hardware,Machine Parts,Mexico,Mexico City,North America,Tier 3,6979.1,248.99,1630
+INV-00094,2024-05-16,Metro Logistics,Packaging,Corrugate,Canada,Toronto,North America,Tier 1,19883.99,524.72,498
+INV-00095,2024-05-27,Vertex Components,Logistics,Warehousing,Canada,Toronto,North America,Tier 1,63912.45,4640.86,3849
+INV-00096,2024-09-09,Vertex Components,Hardware,Machine Parts,Mexico,Mexico City,North America,Tier 1,80184.8,5216.18,4909
+INV-00097,2024-04-27,Omega Office Supplies,Indirect Goods & Services,Professional Services,United States,Atlanta,North America,Tier 3,51711.95,664.25,179
+INV-00098,2024-09-22,Vertex Components,Hardware,Machine Parts,United States,Troy,North America,Tier 2,65101.16,1905.57,1496
+INV-00099,2024-07-28,NexGen Maintenance,Packaging,Plastic Packaging,Mexico,Mexico City,North America,Tier 2,82400.64,5084.21,866
+INV-00100,2024-07-24,Rapid Freight,Logistics,Warehousing,Mexico,Mexico City,North America,Tier 1,59268.59,2471.73,3735
+INV-00101,2024-07-25,Rapid Freight,Indirect Goods & Services,Sales & Marketing,United States,Atlanta,North America,Tier 1,28155.0,3286.26,4454
+INV-00102,2024-09-12,Vertex Components,Packaging,Labels,United States,Troy,North America,Tier 1,16756.93,834.42,1677
+INV-00103,2024-12-23,Vertex Components,Hardware,Machine Parts,United States,Detroit,North America,Tier 1,78924.51,4592.84,246
+INV-00104,2024-07-27,Global Parts Co,Logistics,Transportation,United States,Detroit,North America,Tier 1,27103.01,311.8,939
+INV-00105,2024-09-17,Summit Packaging,Packaging,Corrugate,United States,Detroit,North America,Tier 2,42863.54,3807.41,3962
+INV-00106,2024-11-02,Rapid Freight,Packaging,Corrugate,Mexico,Mexico City,North America,Tier 3,47306.27,2469.13,1128
+INV-00107,2024-05-16,Alpha Industrial Supplies,Indirect Goods & Services,Sales & Marketing,Mexico,Mexico City,North America,Tier 2,29549.52,2855.93,2455
+INV-00108,2024-10-09,Rapid Freight,Packaging,Corrugate,Mexico,Mexico City,North America,Tier 2,46240.77,2217.88,3740
+INV-00109,2024-07-29,Alpha Industrial Supplies,Hardware,Fasteners,United States,Detroit,North America,Tier 2,49031.0,1750.01,3884
+INV-00110,2024-09-14,Omega Office Supplies,Packaging,Labels,United States,Detroit,North America,Tier 2,42607.61,599.58,832
+INV-00111,2024-03-14,BlueLine Services,Packaging,Corrugate,Canada,Toronto,North America,Tier 3,77477.1,905.57,1274
+INV-00112,2024-11-28,Global Parts Co,Indirect Goods & Services,Professional Services,United States,Atlanta,North America,Tier 2,29439.14,2537.58,4381
+INV-00113,2024-02-05,Prime Hardware,Packaging,Labels,Mexico,Mexico City,North America,Tier 3,74280.17,1036.13,2364
+INV-00114,2024-11-20,Global Parts Co,Logistics,Transportation,United States,Troy,North America,Tier 2,37453.6,780.11,1372
+INV-00115,2024-07-02,NexGen Maintenance,Hardware,Fasteners,United States,Troy,North America,Tier 2,28247.47,456.85,1202
+INV-00116,2024-03-28,Metro Logistics,Logistics,Transportation,Mexico,Mexico City,North America,Tier 1,48537.96,4716.78,3143
+INV-00117,2024-05-10,Vertex Components,Logistics,Warehousing,Canada,Toronto,North America,Tier 2,13021.89,790.77,86
+INV-00118,2024-06-25,Omega Office Supplies,Packaging,Labels,Canada,Toronto,North America,Tier 2,14269.95,836.08,3485
+INV-00119,2024-09-04,Global Parts Co,Hardware,Tools,United States,Atlanta,North America,Tier 1,17734.23,927.79,3134
+INV-00120,2024-12-03,BlueLine Services,Hardware,Machine Parts,United States,Atlanta,North America,Tier 2,84386.13,3584.33,76
+INV-00121,2024-06-29,Prime Hardware,Indirect Goods & Services,Professional Services,United States,Atlanta,North America,Tier 3,66162.24,2336.39,1567
+INV-00122,2024-11-26,Alpha Industrial Supplies,Hardware,Machine Parts,United States,Detroit,North America,Tier 2,53772.84,5881.37,3621
+INV-00123,2024-07-31,Metro Logistics,Indirect Goods & Services,Sales & Marketing,United States,Detroit,North America,Tier 1,8571.2,363.95,1092
+INV-00124,2024-05-11,Vertex Components,Hardware,Machine Parts,Canada,Toronto,North America,Tier 2,77732.91,7878.38,2784
+INV-00125,2024-12-12,BlueLine Services,Indirect Goods & Services,Professional Services,United States,Troy,North America,Tier 3,12823.59,1491.58,3006
+INV-00126,2024-07-07,Summit Packaging,Indirect Goods & Services,Professional Services,United States,Troy,North America,Tier 3,23214.52,547.74,3131
+INV-00127,2024-10-14,NexGen Maintenance,Hardware,Fasteners,United States,Detroit,North America,Tier 3,40604.06,3173.21,1823
+INV-00128,2024-01-24,Alpha Industrial Supplies,Indirect Goods & Services,Professional Services,United States,Atlanta,North America,Tier 2,55536.11,1268.13,4045
+INV-00129,2024-08-20,NexGen Maintenance,Indirect Goods & Services,Maintenance & Repair,United States,Detroit,North America,Tier 3,75529.78,1882.43,4435
+INV-00130,2024-09-07,Omega Office Supplies,Packaging,Plastic Packaging,United States,Detroit,North America,Tier 2,75374.76,6183.85,2301
+INV-00131,2024-07-04,Global Parts Co,Indirect Goods & Services,Sales & Marketing,United States,Detroit,North America,Tier 3,38244.18,4381.29,3019
+INV-00132,2024-08-20,Global Parts Co,Hardware,Fasteners,Mexico,Mexico City,North America,Tier 3,24174.04,2816.34,1747
+INV-00133,2024-10-16,Prime Hardware,Indirect Goods & Services,Maintenance & Repair,United States,Atlanta,North America,Tier 1,21459.79,511.85,4550
+INV-00134,2024-03-16,Omega Office Supplies,Logistics,Transportation,United States,Detroit,North America,Tier 1,69296.45,2469.02,2281
+INV-00135,2024-12-04,Alpha Industrial Supplies,Logistics,Freight,Canada,Toronto,North America,Tier 1,22054.95,643.89,131
+INV-00136,2024-01-27,Metro Logistics,Hardware,Fasteners,Canada,Toronto,North America,Tier 3,28196.8,822.42,3458
+INV-00137,2024-10-30,Global Parts Co,Indirect Goods & Services,Maintenance & Repair,Mexico,Mexico City,North America,Tier 2,38655.12,1925.96,4137
+INV-00138,2024-12-03,Rapid Freight,Logistics,Transportation,United States,Troy,North America,Tier 2,62088.41,6827.41,3762
+INV-00139,2024-02-25,Vertex Components,Indirect Goods & Services,Maintenance & Repair,Mexico,Mexico City,North America,Tier 3,72173.08,4105.93,3643
+INV-00140,2024-05-20,Omega Office Supplies,Indirect Goods & Services,Maintenance & Repair,United States,Atlanta,North America,Tier 3,52096.98,897.37,4805
+INV-00141,2024-11-05,BlueLine Services,Hardware,Tools,Canada,Toronto,North America,Tier 1,45566.77,2729.85,947
+INV-00142,2024-08-20,BlueLine Services,Logistics,Warehousing,Mexico,Mexico City,North America,Tier 2,75599.65,4197.25,788
+INV-00143,2024-03-19,Vertex Components,Hardware,Tools,United States,Atlanta,North America,Tier 1,56869.06,2910.17,757
+INV-00144,2024-03-07,Rapid Freight,Indirect Goods & Services,Maintenance & Repair,Mexico,Mexico City,North America,Tier 1,9111.41,831.58,4814
+INV-00145,2024-08-04,Alpha Industrial Supplies,Hardware,Machine Parts,United States,Troy,North America,Tier 2,35507.93,3767.28,4928
+INV-00146,2024-12-02,Vertex Components,Hardware,Tools,United States,Troy,North America,Tier 1,49545.16,1654.87,896
+INV-00147,2024-04-25,BlueLine Services,Hardware,Machine Parts,United States,Atlanta,North America,Tier 3,10650.37,432.86,4570
+INV-00148,2024-06-07,NexGen Maintenance,Indirect Goods & Services,Sales & Marketing,United States,Troy,North America,Tier 2,16154.95,1410.28,60
+INV-00149,2024-11-20,Alpha Industrial Supplies,Logistics,Freight,Canada,Toronto,North America,Tier 1,56216.95,992.48,4355
+INV-00150,2024-06-08,NexGen Maintenance,Logistics,Warehousing,Mexico,Mexico City,North America,Tier 3,39106.25,1068.19,4894
+INV-00151,2024-12-11,Global Parts Co,Indirect Goods & Services,Maintenance & Repair,United States,Detroit,North America,Tier 2,14222.43,1108.81,3639
+INV-00152,2024-09-19,Global Parts Co,Packaging,Labels,Canada,Toronto,North America,Tier 2,38131.71,1527.11,3531
+INV-00153,2024-01-24,Prime Hardware,Indirect Goods & Services,Sales & Marketing,Canada,Toronto,North America,Tier 2,41877.15,3491.91,4919
+INV-00154,2024-03-11,Summit Packaging,Indirect Goods & Services,Maintenance & Repair,United States,Detroit,North America,Tier 2,26319.23,874.74,2697
+INV-00155,2024-07-13,Rapid Freight,Indirect Goods & Services,Maintenance & Repair,Mexico,Mexico City,North America,Tier 3,63749.19,1869.54,1895
+INV-00156,2024-01-10,Vertex Components,Hardware,Fasteners,Mexico,Mexico City,North America,Tier 1,73388.21,1075.38,2574
+INV-00157,2024-02-28,BlueLine Services,Packaging,Plastic Packaging,Mexico,Mexico City,North America,Tier 1,60597.91,3390.23,2670
+INV-00158,2024-02-15,BlueLine Services,Logistics,Transportation,Mexico,Mexico City,North America,Tier 1,70890.18,7881.19,2003
+INV-00159,2024-06-07,NexGen Maintenance,Packaging,Plastic Packaging,Mexico,Mexico City,North America,Tier 1,45012.85,2409.73,2738
+INV-00160,2024-04-09,NexGen Maintenance,Logistics,Freight,Canada,Toronto,North America,Tier 2,54190.87,3704.84,1219
+INV-00161,2024-03-19,Global Parts Co,Logistics,Freight,United States,Detroit,North America,Tier 1,22501.33,654.45,4057
+INV-00162,2024-10-16,Omega Office Supplies,Packaging,Plastic Packaging,Canada,Toronto,North America,Tier 2,38708.04,4322.02,2599
+INV-00163,2024-05-20,Omega Office Supplies,Logistics,Warehousing,United States,Troy,North America,Tier 1,40389.37,3209.03,2893
+INV-00164,2024-05-26,Global Parts Co,Indirect Goods & Services,Sales & Marketing,Mexico,Mexico City,North America,Tier 3,38960.76,633.42,749
+INV-00165,2024-01-22,Vertex Components,Packaging,Labels,Canada,Toronto,North America,Tier 3,47562.58,4618.32,1552
+INV-00166,2024-08-18,Global Parts Co,Hardware,Machine Parts,Mexico,Mexico City,North America,Tier 2,43114.85,4973.27,700
+INV-00167,2024-09-25,Rapid Freight,Logistics,Freight,United States,Detroit,North America,Tier 3,60440.22,7192.9,1310
+INV-00168,2024-12-13,Omega Office Supplies,Hardware,Tools,United States,Atlanta,North America,Tier 1,33542.99,3193.0,2751
+INV-00169,2024-05-09,Omega Office Supplies,Indirect Goods & Services,Sales & Marketing,United States,Troy,North America,Tier 1,47868.91,2514.17,2740
+INV-00170,2024-12-05,BlueLine Services,Indirect Goods & Services,Office Supplies,United States,Atlanta,North America,Tier 1,27059.47,2223.37,4884
+INV-00171,2024-03-06,Rapid Freight,Indirect Goods & Services,Sales & Marketing,Canada,Toronto,North America,Tier 1,32641.06,3168.89,3478
+INV-00172,2024-06-23,Vertex Components,Hardware,Fasteners,United States,Atlanta,North America,Tier 1,26944.75,3088.64,1865
+INV-00173,2024-09-16,Rapid Freight,Logistics,Freight,United States,Troy,North America,Tier 3,25846.54,2499.19,4323
+INV-00174,2024-03-24,Metro Logistics,Indirect Goods & Services,Sales & Marketing,Canada,Toronto,North America,Tier 3,12008.12,617.69,1366
+INV-00175,2024-08-15,Omega Office Supplies,Packaging,Corrugate,Mexico,Mexico City,North America,Tier 2,31601.15,2817.38,3687
+INV-00176,2024-08-28,Prime Hardware,Logistics,Transportation,United States,Detroit,North America,Tier 2,26995.3,2671.15,4682
+INV-00177,2024-08-02,Metro Logistics,Packaging,Labels,United States,Atlanta,North America,Tier 1,66362.42,4334.78,4963
+INV-00178,2024-10-10,Global Parts Co,Logistics,Warehousing,United States,Troy,North America,Tier 3,54859.04,5823.44,4236
+INV-00179,2024-09-19,Metro Logistics,Indirect Goods & Services,Sales & Marketing,United States,Troy,North America,Tier 2,65101.81,2604.53,761
+INV-00180,2024-07-21,Rapid Freight,Logistics,Warehousing,United States,Atlanta,North America,Tier 2,79159.64,4404.34,1941
+INV-00181,2024-02-20,NexGen Maintenance,Packaging,Corrugate,United States,Atlanta,North America,Tier 1,19861.26,894.86,1137
+INV-00182,2024-12-27,Vertex Components,Indirect Goods & Services,Sales & Marketing,Mexico,Mexico City,North America,Tier 2,59470.05,1502.64,53
+INV-00183,2024-11-07,Rapid Freight,Indirect Goods & Services,Maintenance & Repair,United States,Atlanta,North America,Tier 2,19115.0,505.54,920
+INV-00184,2024-11-23,Omega Office Supplies,Hardware,Fasteners,United States,Atlanta,North America,Tier 2,11235.26,407.03,524
+INV-00185,2024-10-21,Prime Hardware,Indirect Goods & Services,Professional Services,Canada,Toronto,North America,Tier 3,46028.52,3659.96,1186
+INV-00186,2024-08-01,Metro Logistics,Hardware,Tools,United States,Troy,North America,Tier 3,52644.0,1919.51,711
+INV-00187,2024-09-16,Rapid Freight,Hardware,Fasteners,Canada,Toronto,North America,Tier 1,46702.88,4507.08,3208
+INV-00188,2024-01-09,NexGen Maintenance,Packaging,Corrugate,Mexico,Mexico City,North America,Tier 1,83407.31,3161.26,2834
+INV-00189,2024-06-19,Metro Logistics,Logistics,Transportation,United States,Troy,North America,Tier 1,65806.12,5979.84,2896
+INV-00190,2024-12-22,Vertex Components,Hardware,Machine Parts,United States,Detroit,North America,Tier 3,70752.23,6036.23,1503
+INV-00191,2024-04-12,Alpha Industrial Supplies,Logistics,Freight,Mexico,Mexico City,North America,Tier 2,4106.64,132.13,2550
+INV-00192,2024-04-07,Summit Packaging,Packaging,Plastic Packaging,Mexico,Mexico City,North America,Tier 2,22278.36,2068.81,401
+INV-00193,2024-07-23,Vertex Components,Hardware,Tools,United States,Troy,North America,Tier 2,68144.76,3956.8,2787
+INV-00194,2024-05-16,Global Parts Co,Logistics,Warehousing,Mexico,Mexico City,North America,Tier 3,31857.14,3112.51,3487
+INV-00195,2024-05-30,NexGen Maintenance,Indirect Goods & Services,Professional Services,Canada,Toronto,North America,Tier 1,84588.25,2524.98,665
+INV-00196,2024-08-06,Metro Logistics,Hardware,Machine Parts,United States,Atlanta,North America,Tier 3,26745.65,2040.38,3646
+INV-00197,2024-11-10,BlueLine Services,Hardware,Tools,United States,Troy,North America,Tier 2,62052.41,6842.94,479
+INV-00198,2024-03-22,Alpha Industrial Supplies,Indirect Goods & Services,Professional Services,United States,Atlanta,North America,Tier 1,44099.23,4078.68,4987
+INV-00199,2024-07-06,NexGen Maintenance,Packaging,Corrugate,United States,Detroit,North America,Tier 2,6647.6,635.75,4656
+INV-00200,2024-02-09,Omega Office Supplies,Indirect Goods & Services,Office Supplies,Mexico,Mexico City,North America,Tier 1,80701.18,4109.42,4347
+INV-00201,2024-02-28,Alpha Industrial Supplies,Hardware,Tools,United States,Atlanta,North America,Tier 3,55563.1,2081.24,1534
+INV-00202,2024-05-13,Vertex Components,Packaging,Plastic Packaging,Mexico,Mexico City,North America,Tier 1,77737.57,1784.37,2349
+INV-00203,2024-03-29,Vertex Components,Packaging,Corrugate,United States,Troy,North America,Tier 1,12401.19,225.03,2628
+INV-00204,2024-06-02,Metro Logistics,Hardware,Machine Parts,United States,Troy,North America,Tier 3,47199.76,1979.55,1436
+INV-00205,2024-03-12,Prime Hardware,Hardware,Machine Parts,United States,Detroit,North America,Tier 2,11194.45,359.43,225
+INV-00206,2024-10-09,Metro Logistics,Hardware,Machine Parts,Canada,Toronto,North America,Tier 3,31988.54,3147.76,716
+INV-00207,2024-09-26,BlueLine Services,Indirect Goods & Services,Sales & Marketing,Mexico,Mexico City,North America,Tier 2,84965.98,7568.4,4719
+INV-00208,2024-12-14,Rapid Freight,Indirect Goods & Services,Office Supplies,United States,Atlanta,North America,Tier 2,54956.44,3269.75,1061
+INV-00209,2024-03-04,Rapid Freight,Logistics,Freight,Mexico,Mexico City,North America,Tier 1,43240.56,4562.02,2501
+INV-00210,2024-09-22,Summit Packaging,Logistics,Freight,United States,Atlanta,North America,Tier 1,79517.98,2767.36,2062
+INV-00211,2024-11-10,Rapid Freight,Logistics,Transportation,Canada,Toronto,North America,Tier 1,24053.89,1894.3,4127
+INV-00212,2024-11-05,NexGen Maintenance,Logistics,Transportation,Canada,Toronto,North America,Tier 3,13952.32,1150.52,347
+INV-00213,2024-05-15,Prime Hardware,Indirect Goods & Services,Maintenance & Repair,United States,Troy,North America,Tier 3,80677.94,7649.27,3422
+INV-00214,2024-09-04,Prime Hardware,Indirect Goods & Services,Professional Services,Canada,Toronto,North America,Tier 3,25332.42,2919.09,3336
+INV-00215,2024-07-31,Vertex Components,Hardware,Tools,United States,Troy,North America,Tier 2,58843.54,1611.66,1681
+INV-00216,2024-06-25,BlueLine Services,Hardware,Machine Parts,United States,Detroit,North America,Tier 1,27256.93,2426.41,3045
+INV-00217,2024-05-06,Metro Logistics,Indirect Goods & Services,Sales & Marketing,United States,Detroit,North America,Tier 1,40183.7,1584.12,424
+INV-00218,2024-03-22,NexGen Maintenance,Hardware,Tools,Canada,Toronto,North America,Tier 3,36123.32,4186.53,2571
+INV-00219,2024-06-06,Vertex Components,Logistics,Freight,Mexico,Mexico City,North America,Tier 1,84661.43,5193.95,747
+INV-00220,2024-06-29,Alpha Industrial Supplies,Packaging,Plastic Packaging,Mexico,Mexico City,North America,Tier 1,82201.68,2767.39,2314
+INV-00221,2024-02-25,BlueLine Services,Packaging,Plastic Packaging,Mexico,Mexico City,North America,Tier 1,25002.86,272.52,2176
+INV-00222,2024-10-14,Prime Hardware,Hardware,Tools,United States,Atlanta,North America,Tier 2,4800.36,75.02,4542
+INV-00223,2024-05-23,Omega Office Supplies,Hardware,Fasteners,Mexico,Mexico City,North America,Tier 3,43357.46,4079.26,983
+INV-00224,2024-10-12,NexGen Maintenance,Logistics,Freight,Mexico,Mexico City,North America,Tier 1,32348.66,3834.83,1640
+INV-00225,2024-06-19,Vertex Components,Packaging,Plastic Packaging,United States,Troy,North America,Tier 3,4805.48,120.49,3753
+INV-00226,2024-06-12,Metro Logistics,Logistics,Transportation,Canada,Toronto,North America,Tier 2,12741.6,1432.8,2461
+INV-00227,2024-06-02,Vertex Components,Hardware,Machine Parts,Canada,Toronto,North America,Tier 1,45716.55,4021.29,3027
+INV-00228,2024-12-18,Alpha Industrial Supplies,Hardware,Machine Parts,United States,Troy,North America,Tier 3,83311.43,6182.31,3897
+INV-00229,2024-10-25,Vertex Components,Hardware,Machine Parts,Canada,Toronto,North America,Tier 1,49521.29,4424.93,4304
+INV-00230,2024-02-26,Prime Hardware,Packaging,Corrugate,United States,Detroit,North America,Tier 1,3651.92,417.42,3622
+INV-00231,2024-09-13,Omega Office Supplies,Hardware,Tools,United States,Detroit,North America,Tier 2,35688.65,1157.31,520
+INV-00232,2024-09-01,Rapid Freight,Logistics,Transportation,United States,Detroit,North America,Tier 2,48114.49,5763.8,2580
+INV-00233,2024-12-14,Summit Packaging,Logistics,Warehousing,Canada,Toronto,North America,Tier 3,29755.47,1457.17,3976
+INV-00234,2024-06-01,Summit Packaging,Logistics,Freight,United States,Atlanta,North America,Tier 3,47879.28,1663.1,1708
+INV-00235,2024-05-20,Summit Packaging,Packaging,Labels,Mexico,Mexico City,North America,Tier 1,30299.47,3414.96,4707
+INV-00236,2024-05-28,Alpha Industrial Supplies,Packaging,Labels,United States,Atlanta,North America,Tier 2,81187.14,7997.56,657
+INV-00237,2024-10-02,Summit Packaging,Hardware,Tools,United States,Atlanta,North America,Tier 3,63776.43,2138.97,2235
+INV-00238,2024-01-26,Rapid Freight,Logistics,Freight,Canada,Toronto,North America,Tier 1,63234.84,2296.75,1917
+INV-00239,2024-12-14,Metro Logistics,Indirect Goods & Services,Maintenance & Repair,Mexico,Mexico City,North America,Tier 1,28744.66,1781.15,4518
+INV-00240,2024-05-27,NexGen Maintenance,Logistics,Warehousing,Mexico,Mexico City,North America,Tier 2,41105.68,1312.92,494
+INV-00241,2024-01-20,Metro Logistics,Indirect Goods & Services,Office Supplies,Canada,Toronto,North America,Tier 2,63049.67,6527.95,1450
+INV-00242,2024-05-28,Alpha Industrial Supplies,Indirect Goods & Services,Professional Services,Mexico,Mexico City,North America,Tier 1,16650.18,1538.32,2454
+INV-00243,2024-09-25,Vertex Components,Indirect Goods & Services,Sales & Marketing,United States,Atlanta,North America,Tier 1,39165.32,3154.55,4140
+INV-00244,2024-08-22,Summit Packaging,Packaging,Labels,United States,Detroit,North America,Tier 3,68940.37,3197.13,1535
+INV-00245,2024-03-30,Omega Office Supplies,Indirect Goods & Services,Sales & Marketing,United States,Atlanta,North America,Tier 3,48693.62,4543.17,3331
+INV-00246,2024-04-04,Metro Logistics,Packaging,Plastic Packaging,United States,Atlanta,North America,Tier 2,8285.97,692.86,2660
+INV-00247,2024-05-16,NexGen Maintenance,Logistics,Freight,United States,Atlanta,North America,Tier 2,33220.25,1964.68,4781
+INV-00248,2024-03-01,Vertex Components,Indirect Goods & Services,Sales & Marketing,United States,Atlanta,North America,Tier 2,59192.56,996.43,1318
+INV-00249,2024-06-08,Global Parts Co,Packaging,Plastic Packaging,Canada,Toronto,North America,Tier 3,78540.91,8455.57,2426
+INV-00250,2024-03-19,Vertex Components,Hardware,Machine Parts,United States,Detroit,North America,Tier 3,19406.8,479.2,4972
+INV-00251,2024-12-06,Prime Hardware,Hardware,Tools,Canada,Toronto,North America,Tier 1,77674.94,7247.74,4890
+INV-00252,2024-10-15,Global Parts Co,Indirect Goods & Services,Professional Services,Canada,Toronto,North America,Tier 1,60116.35,1117.64,4496
+INV-00253,2024-09-23,Vertex Components,Logistics,Transportation,Canada,Toronto,North America,Tier 1,13587.6,626.29,1692
+INV-00254,2024-03-08,Rapid Freight,Packaging,Corrugate,Canada,Toronto,North America,Tier 2,38420.55,619.34,3752
+INV-00255,2024-01-02,Prime Hardware,Indirect Goods & Services,Professional Services,United States,Atlanta,North America,Tier 3,61755.53,3307.28,608
+INV-00256,2024-01-31,Global Parts Co,Indirect Goods & Services,Professional Services,United States,Atlanta,North America,Tier 2,59832.33,4160.02,269
+INV-00257,2024-11-26,BlueLine Services,Hardware,Tools,United States,Detroit,North America,Tier 2,65593.65,6181.61,3143
+INV-00258,2024-10-03,Metro Logistics,Packaging,Labels,Mexico,Mexico City,North America,Tier 3,7741.0,898.39,2858
+INV-00259,2024-04-24,Alpha Industrial Supplies,Indirect Goods & Services,Office Supplies,Canada,Toronto,North America,Tier 1,34016.93,816.68,2454
+INV-00260,2024-04-27,Prime Hardware,Packaging,Plastic Packaging,Canada,Toronto,North America,Tier 2,36626.75,1894.35,2845
+INV-00261,2024-02-27,Alpha Industrial Supplies,Logistics,Warehousing,United States,Detroit,North America,Tier 3,79742.47,7157.1,3444
+INV-00262,2024-08-16,Omega Office Supplies,Indirect Goods & Services,Office Supplies,United States,Detroit,North America,Tier 3,6652.44,501.15,408
+INV-00263,2024-04-21,Alpha Industrial Supplies,Logistics,Transportation,United States,Troy,North America,Tier 1,34790.29,1244.7,4137
+INV-00264,2024-12-10,NexGen Maintenance,Hardware,Fasteners,Canada,Toronto,North America,Tier 1,27787.91,2105.52,2482
+INV-00265,2024-02-01,Rapid Freight,Logistics,Transportation,Canada,Toronto,North America,Tier 3,19567.59,842.48,1444
+INV-00266,2024-11-25,BlueLine Services,Packaging,Plastic Packaging,Mexico,Mexico City,North America,Tier 3,4938.26,236.47,2621
+INV-00267,2024-10-02,Vertex Components,Packaging,Labels,United States,Detroit,North America,Tier 1,26190.63,791.66,1856
+INV-00268,2024-10-14,BlueLine Services,Hardware,Machine Parts,United States,Detroit,North America,Tier 2,68685.2,7598.06,4575
+INV-00269,2024-02-10,Vertex Components,Logistics,Warehousing,United States,Detroit,North America,Tier 2,22419.63,1038.68,767
+INV-00270,2024-01-21,Global Parts Co,Logistics,Freight,United States,Atlanta,North America,Tier 1,32682.11,2501.71,4823
+INV-00271,2024-01-08,Prime Hardware,Logistics,Warehousing,United States,Detroit,North America,Tier 1,74035.8,3452.0,971
+INV-00272,2024-05-02,Rapid Freight,Packaging,Corrugate,Canada,Toronto,North America,Tier 2,60116.56,3224.02,2328
+INV-00273,2024-07-03,Rapid Freight,Packaging,Labels,Canada,Toronto,North America,Tier 2,55492.59,2437.59,3827
+INV-00274,2024-07-30,Alpha Industrial Supplies,Indirect Goods & Services,Professional Services,United States,Atlanta,North America,Tier 3,77803.76,3950.68,1822
+INV-00275,2024-08-01,Summit Packaging,Logistics,Freight,United States,Atlanta,North America,Tier 1,47478.17,3524.95,1617
+INV-00276,2024-10-08,NexGen Maintenance,Hardware,Fasteners,Mexico,Mexico City,North America,Tier 2,48862.32,1809.39,4012
+INV-00277,2024-03-12,Rapid Freight,Packaging,Labels,United States,Detroit,North America,Tier 2,62552.87,3048.79,1517
+INV-00278,2024-01-04,BlueLine Services,Indirect Goods & Services,Maintenance & Repair,United States,Troy,North America,Tier 1,80395.8,6713.35,1905
+INV-00279,2024-01-31,Omega Office Supplies,Indirect Goods & Services,Office Supplies,United States,Troy,North America,Tier 3,19372.45,1165.47,3968
+INV-00280,2024-01-09,Rapid Freight,Packaging,Corrugate,United States,Troy,North America,Tier 3,45705.85,2525.12,2260
+INV-00281,2024-04-01,Global Parts Co,Hardware,Fasteners,Canada,Toronto,North America,Tier 1,69305.21,5831.59,4305
+INV-00282,2024-06-30,Summit Packaging,Logistics,Freight,United States,Detroit,North America,Tier 2,53061.59,2003.92,657
+INV-00283,2024-04-25,Summit Packaging,Hardware,Tools,Mexico,Mexico City,North America,Tier 3,48460.18,5763.16,670
+INV-00284,2024-01-29,Alpha Industrial Supplies,Indirect Goods & Services,Maintenance & Repair,Mexico,Mexico City,North America,Tier 3,32858.18,2326.27,1413
+INV-00285,2024-02-18,Rapid Freight,Indirect Goods & Services,Professional Services,Mexico,Mexico City,North America,Tier 1,55172.21,2562.18,1892
+INV-00286,2024-02-08,Summit Packaging,Logistics,Transportation,Canada,Toronto,North America,Tier 3,40942.02,619.12,4626
+INV-00287,2024-03-14,BlueLine Services,Indirect Goods & Services,Office Supplies,United States,Atlanta,North America,Tier 1,2315.28,75.91,2461
+INV-00288,2024-12-12,Rapid Freight,Logistics,Transportation,United States,Detroit,North America,Tier 2,48602.46,5027.37,3154
+INV-00289,2024-01-28,Global Parts Co,Logistics,Transportation,United States,Troy,North America,Tier 2,43066.6,5046.35,1911
+INV-00290,2024-07-22,NexGen Maintenance,Indirect Goods & Services,Sales & Marketing,Canada,Toronto,North America,Tier 1,65596.47,7545.85,2249
+INV-00291,2024-08-09,Metro Logistics,Packaging,Labels,United States,Detroit,North America,Tier 3,30888.14,3506.6,4809
+INV-00292,2024-02-07,Global Parts Co,Packaging,Corrugate,Canada,Toronto,North America,Tier 2,25811.88,957.87,1273
+INV-00293,2024-02-24,Global Parts Co,Packaging,Plastic Packaging,United States,Detroit,North America,Tier 1,63131.04,2830.46,2535
+INV-00294,2024-08-08,Vertex Components,Packaging,Labels,United States,Atlanta,North America,Tier 3,9587.44,187.94,4554
+INV-00295,2024-11-01,Omega Office Supplies,Packaging,Corrugate,United States,Troy,North America,Tier 2,8527.98,605.18,3165
+INV-00296,2024-10-13,Prime Hardware,Indirect Goods & Services,Sales & Marketing,Mexico,Mexico City,North America,Tier 3,33575.16,648.57,4278
+INV-00297,2024-05-17,Vertex Components,Logistics,Transportation,Mexico,Mexico City,North America,Tier 1,15238.15,603.14,528
+INV-00298,2024-02-09,NexGen Maintenance,Logistics,Warehousing,United States,Atlanta,North America,Tier 2,36372.6,2301.13,2030
+INV-00299,2024-06-04,Alpha Industrial Supplies,Packaging,Plastic Packaging,Canada,Toronto,North America,Tier 2,17426.05,379.31,2731
+INV-00300,2024-11-29,Omega Office Supplies,Packaging,Labels,Mexico,Mexico City,North America,Tier 1,29117.84,2903.12,2471
+INV-00301,2024-07-22,NexGen Maintenance,Hardware,Machine Parts,United States,Detroit,North America,Tier 2,41236.82,1218.14,4032
+INV-00302,2024-07-05,Global Parts Co,Logistics,Warehousing,Mexico,Mexico City,North America,Tier 3,24545.21,2367.27,1646
+INV-00303,2024-12-28,Prime Hardware,Logistics,Transportation,Canada,Toronto,North America,Tier 2,3260.95,293.46,2396
+INV-00304,2024-05-09,Metro Logistics,Indirect Goods & Services,Professional Services,Mexico,Mexico City,North America,Tier 3,12691.05,549.67,3476
+INV-00305,2024-07-24,Rapid Freight,Packaging,Corrugate,Mexico,Mexico City,North America,Tier 3,84218.85,5281.85,3436
+INV-00306,2024-02-25,Prime Hardware,Indirect Goods & Services,Sales & Marketing,Canada,Toronto,North America,Tier 3,50880.88,5626.62,2918
+INV-00307,2024-12-12,BlueLine Services,Logistics,Transportation,Canada,Toronto,North America,Tier 2,4720.92,558.0,3536
+INV-00308,2024-09-22,Rapid Freight,Indirect Goods & Services,Maintenance & Repair,United States,Troy,North America,Tier 3,22734.02,1504.41,4722
+INV-00309,2024-10-28,Rapid Freight,Logistics,Warehousing,United States,Atlanta,North America,Tier 1,33855.27,3214.82,2835
+INV-00310,2024-02-13,Global Parts Co,Indirect Goods & Services,Professional Services,United States,Troy,North America,Tier 3,25816.31,2872.33,1170
+INV-00311,2024-09-04,NexGen Maintenance,Hardware,Tools,United States,Atlanta,North America,Tier 2,39247.94,1285.58,809
+INV-00312,2024-12-29,Global Parts Co,Packaging,Plastic Packaging,Mexico,Mexico City,North America,Tier 1,27788.4,1195.71,2820
+INV-00313,2024-06-18,Rapid Freight,Indirect Goods & Services,Office Supplies,United States,Detroit,North America,Tier 2,44343.49,3135.53,3795
+INV-00314,2024-07-21,Alpha Industrial Supplies,Logistics,Warehousing,United States,Detroit,North America,Tier 3,16656.5,1370.89,1626
+INV-00315,2024-04-15,Summit Packaging,Packaging,Plastic Packaging,Mexico,Mexico City,North America,Tier 3,33662.21,2946.15,522
+INV-00316,2024-05-14,Vertex Components,Indirect Goods & Services,Office Supplies,United States,Atlanta,North America,Tier 3,28382.73,1712.35,2577
+INV-00317,2024-08-22,Omega Office Supplies,Packaging,Plastic Packaging,Mexico,Mexico City,North America,Tier 1,50308.4,2428.47,2446
+INV-00318,2024-04-03,NexGen Maintenance,Indirect Goods & Services,Office Supplies,United States,Atlanta,North America,Tier 3,10900.38,475.17,1168
+INV-00319,2024-04-05,Vertex Components,Packaging,Labels,Canada,Toronto,North America,Tier 3,12580.85,656.82,4412
+INV-00320,2024-06-10,Vertex Components,Logistics,Transportation,United States,Detroit,North America,Tier 3,42129.93,1071.47,449
+INV-00321,2024-10-14,Rapid Freight,Hardware,Fasteners,Mexico,Mexico City,North America,Tier 3,12468.92,1242.82,4064
+INV-00322,2024-09-07,Metro Logistics,Packaging,Plastic Packaging,Mexico,Mexico City,North America,Tier 1,35912.96,3677.06,4641
+INV-00323,2024-05-27,Metro Logistics,Indirect Goods & Services,Office Supplies,United States,Atlanta,North America,Tier 2,3746.39,130.12,4643
+INV-00324,2024-10-05,NexGen Maintenance,Packaging,Plastic Packaging,Canada,Toronto,North America,Tier 3,10509.72,237.13,350
+INV-00325,2024-11-30,Prime Hardware,Packaging,Plastic Packaging,United States,Detroit,North America,Tier 2,84141.16,1789.33,274
+INV-00326,2024-03-01,Prime Hardware,Packaging,Labels,United States,Atlanta,North America,Tier 1,73424.77,1436.79,4826
+INV-00327,2024-03-12,Prime Hardware,Hardware,Machine Parts,Canada,Toronto,North America,Tier 1,54152.73,1530.25,496
+INV-00328,2024-12-26,Summit Packaging,Hardware,Machine Parts,United States,Atlanta,North America,Tier 2,51136.05,1458.48,4701
+INV-00329,2024-07-29,Alpha Industrial Supplies,Hardware,Machine Parts,United States,Troy,North America,Tier 2,12389.47,1146.15,1049
+INV-00330,2024-12-12,BlueLine Services,Logistics,Freight,United States,Detroit,North America,Tier 2,60757.17,6144.55,1174
+INV-00331,2024-02-17,BlueLine Services,Hardware,Machine Parts,Mexico,Mexico City,North America,Tier 3,32514.48,595.24,2289
+INV-00332,2024-02-17,Vertex Components,Hardware,Tools,Mexico,Mexico City,North America,Tier 3,28492.3,292.67,2944
+INV-00333,2024-09-10,Summit Packaging,Indirect Goods & Services,Professional Services,United States,Detroit,North America,Tier 2,82322.8,8292.64,2333
+INV-00334,2024-06-24,Alpha Industrial Supplies,Hardware,Machine Parts,Canada,Toronto,North America,Tier 1,11969.92,1242.08,825
+INV-00335,2024-08-21,Alpha Industrial Supplies,Packaging,Corrugate,United States,Troy,North America,Tier 2,79072.36,2164.86,1667
+INV-00336,2024-05-20,Global Parts Co,Logistics,Transportation,United States,Atlanta,North America,Tier 3,14354.11,1616.27,2962
+INV-00337,2024-01-27,BlueLine Services,Hardware,Fasteners,United States,Atlanta,North America,Tier 3,56818.74,4623.92,2512
+INV-00338,2024-09-01,Global Parts Co,Logistics,Warehousing,United States,Troy,North America,Tier 1,60110.64,608.29,4873
+INV-00339,2024-03-02,BlueLine Services,Logistics,Transportation,Mexico,Mexico City,North America,Tier 3,1780.1,154.01,1092
+INV-00340,2024-02-22,Global Parts Co,Packaging,Corrugate,United States,Detroit,North America,Tier 2,33177.87,2998.75,3021
+INV-00341,2024-03-09,Metro Logistics,Hardware,Fasteners,Mexico,Mexico City,North America,Tier 1,65970.68,6125.2,4355
+INV-00342,2024-03-18,BlueLine Services,Indirect Goods & Services,Office Supplies,Mexico,Mexico City,North America,Tier 3,30499.77,1019.79,3634
+INV-00343,2024-07-15,NexGen Maintenance,Logistics,Freight,United States,Troy,North America,Tier 2,12761.1,300.49,2586
+INV-00344,2024-11-03,Omega Office Supplies,Logistics,Freight,United States,Atlanta,North America,Tier 3,55148.13,2056.94,4987
+INV-00345,2024-06-03,Prime Hardware,Hardware,Machine Parts,United States,Troy,North America,Tier 3,72222.94,5952.95,4981
+INV-00346,2024-05-02,Vertex Components,Logistics,Transportation,Mexico,Mexico City,North America,Tier 2,25825.53,413.28,933
+INV-00347,2024-01-07,NexGen Maintenance,Logistics,Warehousing,Canada,Toronto,North America,Tier 2,6965.01,750.55,1091
+INV-00348,2024-08-29,Global Parts Co,Packaging,Plastic Packaging,Mexico,Mexico City,North America,Tier 1,31694.65,2697.96,4821
+INV-00349,2024-07-22,Rapid Freight,Indirect Goods & Services,Maintenance & Repair,United States,Atlanta,North America,Tier 2,19122.41,2131.84,4114
+INV-00350,2024-11-11,Metro Logistics,Packaging,Labels,Mexico,Mexico City,North America,Tier 2,7923.94,546.93,694
+INV-00351,2024-03-20,Rapid Freight,Hardware,Fasteners,Canada,Toronto,North America,Tier 2,78357.69,9181.52,3210
+INV-00352,2024-01-30,Prime Hardware,Indirect Goods & Services,Sales & Marketing,Mexico,Mexico City,North America,Tier 1,62316.5,6425.55,3569
+INV-00353,2024-12-02,Metro Logistics,Indirect Goods & Services,Professional Services,Canada,Toronto,North America,Tier 1,52141.92,2295.39,113
+INV-00354,2024-09-24,Rapid Freight,Logistics,Transportation,United States,Troy,North America,Tier 3,14761.94,1695.14,2133
+INV-00355,2024-03-01,Alpha Industrial Supplies,Logistics,Warehousing,United States,Detroit,North America,Tier 2,63981.22,6787.17,3527
+INV-00356,2024-11-17,Global Parts Co,Hardware,Machine Parts,United States,Troy,North America,Tier 2,23087.77,2707.17,3738
+INV-00357,2024-03-21,Summit Packaging,Hardware,Fasteners,Mexico,Mexico City,North America,Tier 1,73186.22,2075.34,4711
+INV-00358,2024-01-07,Prime Hardware,Indirect Goods & Services,Office Supplies,Canada,Toronto,North America,Tier 1,1215.75,126.99,3874
+INV-00359,2024-01-19,Rapid Freight,Hardware,Tools,United States,Detroit,North America,Tier 3,16032.72,1853.99,3445
+INV-00360,2024-05-18,Global Parts Co,Logistics,Warehousing,United States,Detroit,North America,Tier 3,35965.55,3209.27,3064
+INV-00361,2024-01-24,BlueLine Services,Indirect Goods & Services,Maintenance & Repair,United States,Detroit,North America,Tier 1,19747.55,1317.86,3820
+INV-00362,2024-07-07,Prime Hardware,Hardware,Tools,United States,Atlanta,North America,Tier 2,8256.38,497.38,4628
+INV-00363,2024-09-09,Prime Hardware,Hardware,Machine Parts,Canada,Toronto,North America,Tier 3,21377.06,1079.76,4487
+INV-00364,2024-10-04,NexGen Maintenance,Logistics,Freight,United States,Troy,North America,Tier 3,79321.39,1001.84,88
+INV-00365,2024-02-23,Prime Hardware,Hardware,Fasteners,Mexico,Mexico City,North America,Tier 3,72316.5,6508.03,1961
+INV-00366,2024-05-23,Global Parts Co,Packaging,Labels,United States,Troy,North America,Tier 1,82694.98,2122.04,1906
+INV-00367,2024-10-24,Global Parts Co,Packaging,Plastic Packaging,United States,Atlanta,North America,Tier 3,39510.47,3645.59,1103
+INV-00368,2024-03-07,Prime Hardware,Packaging,Corrugate,Canada,Toronto,North America,Tier 2,48696.94,2817.03,2148
+INV-00369,2024-02-08,Prime Hardware,Hardware,Tools,United States,Atlanta,North America,Tier 1,27716.85,1106.32,4799
+INV-00370,2024-07-27,Global Parts Co,Indirect Goods & Services,Office Supplies,United States,Troy,North America,Tier 3,14807.5,907.2,2945
+INV-00371,2024-02-16,Metro Logistics,Logistics,Warehousing,United States,Atlanta,North America,Tier 3,39921.11,4142.73,2502
+INV-00372,2024-07-01,BlueLine Services,Indirect Goods & Services,Office Supplies,United States,Atlanta,North America,Tier 3,13459.2,1187.47,411
+INV-00373,2024-08-19,Rapid Freight,Hardware,Tools,United States,Detroit,North America,Tier 3,3610.9,196.73,4516
+INV-00374,2024-03-03,Alpha Industrial Supplies,Logistics,Freight,Mexico,Mexico City,North America,Tier 1,9560.22,930.39,1830
+INV-00375,2024-11-26,Global Parts Co,Logistics,Freight,Mexico,Mexico City,North America,Tier 3,32268.14,2559.92,4811
+INV-00376,2024-11-26,Vertex Components,Hardware,Fasteners,United States,Troy,North America,Tier 1,84761.56,2691.39,763
+INV-00377,2024-10-20,BlueLine Services,Hardware,Fasteners,United States,Troy,North America,Tier 3,80151.58,1247.97,3245
+INV-00378,2024-04-19,Metro Logistics,Packaging,Corrugate,Mexico,Mexico City,North America,Tier 2,58389.89,1693.82,2302
+INV-00379,2024-11-27,Summit Packaging,Packaging,Corrugate,United States,Troy,North America,Tier 2,52584.95,4094.66,3385
+INV-00380,2024-04-12,Rapid Freight,Packaging,Corrugate,United States,Troy,North America,Tier 1,24501.18,614.88,4463
+INV-00381,2024-06-25,Omega Office Supplies,Indirect Goods & Services,Professional Services,United States,Atlanta,North America,Tier 3,41293.49,3962.44,2644
+INV-00382,2024-01-16,Summit Packaging,Packaging,Labels,United States,Detroit,North America,Tier 1,3189.29,241.37,3874
+INV-00383,2024-12-02,Prime Hardware,Hardware,Machine Parts,United States,Detroit,North America,Tier 2,82814.31,1740.32,4381
+INV-00384,2024-06-30,Metro Logistics,Indirect Goods & Services,Office Supplies,Canada,Toronto,North America,Tier 1,72106.43,7045.73,1947
+INV-00385,2024-12-24,NexGen Maintenance,Hardware,Machine Parts,United States,Atlanta,North America,Tier 3,77774.32,1019.06,4627
+INV-00386,2024-09-09,Rapid Freight,Logistics,Transportation,United States,Detroit,North America,Tier 2,71282.53,7067.24,1448
+INV-00387,2024-01-11,Rapid Freight,Packaging,Corrugate,United States,Troy,North America,Tier 2,5718.11,435.62,15
+INV-00388,2024-03-31,NexGen Maintenance,Hardware,Machine Parts,United States,Detroit,North America,Tier 1,68741.41,3264.08,189
+INV-00389,2024-07-05,Global Parts Co,Logistics,Transportation,United States,Detroit,North America,Tier 2,66046.79,6810.28,3250
+INV-00390,2024-08-11,Vertex Components,Indirect Goods & Services,Sales & Marketing,United States,Atlanta,North America,Tier 3,28098.67,3297.23,2609
+INV-00391,2024-07-01,Prime Hardware,Logistics,Transportation,Canada,Toronto,North America,Tier 3,59259.07,6647.27,4834
+INV-00392,2024-03-31,Alpha Industrial Supplies,Logistics,Warehousing,United States,Atlanta,North America,Tier 3,62655.58,2656.4,4702
+INV-00393,2024-11-09,Prime Hardware,Packaging,Plastic Packaging,United States,Troy,North America,Tier 3,16294.87,733.33,4642
+INV-00394,2024-06-26,NexGen Maintenance,Indirect Goods & Services,Professional Services,United States,Detroit,North America,Tier 1,28818.15,534.83,736
+INV-00395,2024-02-04,NexGen Maintenance,Hardware,Tools,United States,Troy,North America,Tier 2,23277.85,871.74,895
+INV-00396,2024-03-26,BlueLine Services,Indirect Goods & Services,Maintenance & Repair,Mexico,Mexico City,North America,Tier 2,37810.49,2123.51,3112
+INV-00397,2024-10-22,Prime Hardware,Hardware,Machine Parts,Mexico,Mexico City,North America,Tier 1,9520.0,597.32,3706
+INV-00398,2024-02-23,Global Parts Co,Indirect Goods & Services,Maintenance & Repair,United States,Atlanta,North America,Tier 2,2686.55,104.03,1403
+INV-00399,2024-02-17,NexGen Maintenance,Packaging,Corrugate,United States,Troy,North America,Tier 3,46951.89,5108.07,3964
+INV-00400,2024-01-28,Global Parts Co,Indirect Goods & Services,Professional Services,United States,Detroit,North America,Tier 2,52014.68,3004.47,1693
+INV-00401,2024-05-15,Summit Packaging,Logistics,Warehousing,Canada,Toronto,North America,Tier 2,61651.2,5566.93,1955
+INV-00402,2024-03-19,Alpha Industrial Supplies,Indirect Goods & Services,Maintenance & Repair,Mexico,Mexico City,North America,Tier 2,49028.66,5019.75,41
+INV-00403,2024-09-02,Prime Hardware,Packaging,Corrugate,United States,Atlanta,North America,Tier 1,70207.37,5529.53,220
+INV-00404,2024-02-29,Summit Packaging,Logistics,Freight,United States,Atlanta,North America,Tier 2,83072.85,5158.22,3867
+INV-00405,2024-04-04,NexGen Maintenance,Packaging,Plastic Packaging,United States,Atlanta,North America,Tier 2,8655.5,604.62,3036
+INV-00406,2024-04-25,Summit Packaging,Logistics,Warehousing,United States,Troy,North America,Tier 3,23116.86,1413.74,514
+INV-00407,2024-10-04,BlueLine Services,Logistics,Transportation,United States,Troy,North America,Tier 3,8199.41,392.07,1873
+INV-00408,2024-08-31,Omega Office Supplies,Indirect Goods & Services,Professional Services,Canada,Toronto,North America,Tier 1,36165.09,2492.01,3911
+INV-00409,2024-09-14,Omega Office Supplies,Hardware,Fasteners,Mexico,Mexico City,North America,Tier 3,76833.28,6805.4,4691
+INV-00410,2024-04-18,Prime Hardware,Logistics,Freight,Mexico,Mexico City,North America,Tier 1,15521.83,1835.93,359
+INV-00411,2024-03-16,Omega Office Supplies,Packaging,Corrugate,Mexico,Mexico City,North America,Tier 2,17961.22,1804.78,2629
+INV-00412,2024-05-21,Rapid Freight,Indirect Goods & Services,Maintenance & Repair,Mexico,Mexico City,North America,Tier 2,47734.59,3376.07,111
+INV-00413,2024-10-25,Global Parts Co,Packaging,Corrugate,Mexico,Mexico City,North America,Tier 1,13569.95,981.45,4619
+INV-00414,2024-05-15,BlueLine Services,Indirect Goods & Services,Sales & Marketing,Canada,Toronto,North America,Tier 3,74931.41,7985.31,3987
+INV-00415,2024-11-07,BlueLine Services,Packaging,Corrugate,United States,Detroit,North America,Tier 1,24134.79,623.25,3252
+INV-00416,2024-05-17,NexGen Maintenance,Hardware,Machine Parts,United States,Detroit,North America,Tier 1,5140.44,320.12,2777
+INV-00417,2024-12-16,Global Parts Co,Hardware,Tools,United States,Atlanta,North America,Tier 1,71799.11,7496.25,1110
+INV-00418,2024-08-01,Omega Office Supplies,Hardware,Machine Parts,Mexico,Mexico City,North America,Tier 3,66018.6,2990.35,741
+INV-00419,2024-09-05,Rapid Freight,Logistics,Warehousing,United States,Detroit,North America,Tier 2,77728.36,4258.64,470
+INV-00420,2024-09-25,Omega Office Supplies,Logistics,Freight,United States,Atlanta,North America,Tier 1,60603.83,3295.17,1433
+INV-00421,2024-07-03,Prime Hardware,Logistics,Freight,United States,Troy,North America,Tier 2,21957.18,1322.03,3027
+INV-00422,2024-01-16,Prime Hardware,Packaging,Plastic Packaging,Mexico,Mexico City,North America,Tier 2,54374.42,1284.65,4014
+INV-00423,2024-03-24,Summit Packaging,Packaging,Corrugate,Mexico,Mexico City,North America,Tier 3,50297.94,2438.12,750
+INV-00424,2024-04-19,Prime Hardware,Hardware,Fasteners,Mexico,Mexico City,North America,Tier 3,5170.69,537.34,1854
+INV-00425,2024-12-15,Alpha Industrial Supplies,Logistics,Warehousing,Mexico,Mexico City,North America,Tier 2,44115.62,4636.96,1093
+INV-00426,2024-06-05,Summit Packaging,Logistics,Transportation,United States,Troy,North America,Tier 2,19796.68,1522.72,3094
+INV-00427,2024-09-23,Omega Office Supplies,Hardware,Tools,United States,Atlanta,North America,Tier 2,19329.56,835.73,4798
+INV-00428,2024-07-10,Rapid Freight,Indirect Goods & Services,Maintenance & Repair,Canada,Toronto,North America,Tier 3,84952.07,9881.06,4874
+INV-00429,2024-05-21,NexGen Maintenance,Hardware,Tools,United States,Troy,North America,Tier 2,41466.03,1948.54,2149
+INV-00430,2024-01-30,Omega Office Supplies,Hardware,Fasteners,United States,Detroit,North America,Tier 2,44452.66,1619.55,2628
+INV-00431,2024-05-12,BlueLine Services,Logistics,Transportation,United States,Troy,North America,Tier 2,56053.65,6710.83,3190
+INV-00432,2024-09-30,Vertex Components,Indirect Goods & Services,Office Supplies,United States,Atlanta,North America,Tier 3,62030.19,2137.56,2946
+INV-00433,2024-03-06,Summit Packaging,Hardware,Fasteners,Canada,Toronto,North America,Tier 3,16215.41,336.25,4589
+INV-00434,2024-04-24,Summit Packaging,Logistics,Transportation,United States,Atlanta,North America,Tier 2,55972.51,1928.13,2724
+INV-00435,2024-08-28,Alpha Industrial Supplies,Hardware,Tools,Canada,Toronto,North America,Tier 3,25700.29,2663.41,4790
+INV-00436,2024-07-14,Rapid Freight,Indirect Goods & Services,Professional Services,United States,Detroit,North America,Tier 2,43040.1,4537.49,3394
+INV-00437,2024-10-18,Vertex Components,Indirect Goods & Services,Office Supplies,United States,Detroit,North America,Tier 1,84357.22,4023.31,2601
+INV-00438,2024-06-09,Alpha Industrial Supplies,Logistics,Freight,Mexico,Mexico City,North America,Tier 1,28940.87,3430.37,3713
+INV-00439,2024-02-15,Metro Logistics,Hardware,Fasteners,United States,Detroit,North America,Tier 3,49407.43,1355.14,3562
+INV-00440,2024-01-20,Rapid Freight,Packaging,Labels,Mexico,Mexico City,North America,Tier 1,82087.54,4282.08,3066
+INV-00441,2024-11-16,Prime Hardware,Indirect Goods & Services,Sales & Marketing,Canada,Toronto,North America,Tier 1,17008.44,1436.23,2830
+INV-00442,2024-03-26,Global Parts Co,Hardware,Fasteners,United States,Troy,North America,Tier 1,33218.24,2483.19,2452
+INV-00443,2024-12-17,Metro Logistics,Hardware,Tools,Canada,Toronto,North America,Tier 2,51095.07,2409.74,4025
+INV-00444,2024-07-25,Alpha Industrial Supplies,Hardware,Fasteners,United States,Detroit,North America,Tier 1,80639.09,8951.15,1847
+INV-00445,2024-07-06,Alpha Industrial Supplies,Logistics,Freight,United States,Troy,North America,Tier 2,50534.2,1444.69,2105
+INV-00446,2024-12-19,Global Parts Co,Indirect Goods & Services,Maintenance & Repair,United States,Troy,North America,Tier 2,55899.68,680.39,3649
+INV-00447,2024-04-15,Alpha Industrial Supplies,Packaging,Corrugate,Canada,Toronto,North America,Tier 2,22230.02,1938.58,3457
+INV-00448,2024-02-23,Rapid Freight,Indirect Goods & Services,Sales & Marketing,Canada,Toronto,North America,Tier 3,51873.28,1301.4,974
+INV-00449,2024-05-14,Rapid Freight,Hardware,Fasteners,United States,Troy,North America,Tier 1,42810.08,3295.96,2942
+INV-00450,2024-04-16,Vertex Components,Packaging,Labels,United States,Detroit,North America,Tier 2,4310.08,278.43,1931
+INV-00451,2024-12-08,Vertex Components,Indirect Goods & Services,Maintenance & Repair,United States,Troy,North America,Tier 1,77177.92,7862.54,747
+INV-00452,2024-05-31,Summit Packaging,Indirect Goods & Services,Maintenance & Repair,United States,Atlanta,North America,Tier 2,55124.29,3320.83,420
+INV-00453,2024-12-12,NexGen Maintenance,Indirect Goods & Services,Office Supplies,United States,Troy,North America,Tier 2,72588.89,3602.12,959
+INV-00454,2024-03-28,NexGen Maintenance,Indirect Goods & Services,Maintenance & Repair,United States,Troy,North America,Tier 2,72567.89,6020.89,3595
+INV-00455,2024-02-28,BlueLine Services,Hardware,Machine Parts,United States,Troy,North America,Tier 2,32300.26,1540.71,3749
+INV-00456,2024-03-26,Global Parts Co,Hardware,Tools,Mexico,Mexico City,North America,Tier 1,68191.52,5548.96,490
+INV-00457,2024-10-18,Vertex Components,Logistics,Freight,Mexico,Mexico City,North America,Tier 1,77543.05,4892.52,3120
+INV-00458,2024-03-07,Vertex Components,Hardware,Machine Parts,United States,Troy,North America,Tier 2,73456.37,7844.74,935
+INV-00459,2024-01-07,Rapid Freight,Packaging,Labels,United States,Troy,North America,Tier 3,6320.23,518.56,4733
+INV-00460,2024-11-12,Global Parts Co,Logistics,Transportation,United States,Atlanta,North America,Tier 2,44604.37,3822.89,2046
+INV-00461,2024-11-09,Alpha Industrial Supplies,Packaging,Labels,Mexico,Mexico City,North America,Tier 1,13486.97,1360.95,1295
+INV-00462,2024-05-03,NexGen Maintenance,Packaging,Labels,United States,Detroit,North America,Tier 2,7288.68,467.07,422
+INV-00463,2024-08-23,Vertex Components,Logistics,Transportation,Mexico,Mexico City,North America,Tier 3,34875.27,1250.28,3680
+INV-00464,2024-11-30,Alpha Industrial Supplies,Indirect Goods & Services,Professional Services,Mexico,Mexico City,North America,Tier 1,27549.17,3247.32,3314
+INV-00465,2024-11-05,Omega Office Supplies,Packaging,Corrugate,Canada,Toronto,North America,Tier 3,47124.3,4752.48,2505
+INV-00466,2024-01-28,Prime Hardware,Logistics,Transportation,Mexico,Mexico City,North America,Tier 2,80829.83,4038.88,2729
+INV-00467,2024-12-03,Prime Hardware,Packaging,Plastic Packaging,United States,Atlanta,North America,Tier 1,61136.73,1378.18,2806
+INV-00468,2024-02-24,Alpha Industrial Supplies,Hardware,Machine Parts,United States,Atlanta,North America,Tier 1,47006.01,2403.32,4043
+INV-00469,2024-04-06,Global Parts Co,Logistics,Transportation,Mexico,Mexico City,North America,Tier 2,9984.77,770.76,1776
+INV-00470,2024-11-20,Omega Office Supplies,Packaging,Corrugate,United States,Atlanta,North America,Tier 1,10052.32,558.83,3700
+INV-00471,2024-09-12,Alpha Industrial Supplies,Packaging,Plastic Packaging,Canada,Toronto,North America,Tier 3,81319.99,2017.55,407
+INV-00472,2024-03-31,Omega Office Supplies,Packaging,Plastic Packaging,Mexico,Mexico City,North America,Tier 1,78647.15,7543.75,1061
+INV-00473,2024-07-15,BlueLine Services,Indirect Goods & Services,Professional Services,Canada,Toronto,North America,Tier 3,51917.51,2357.2,2043
+INV-00474,2024-03-09,Metro Logistics,Hardware,Tools,United States,Atlanta,North America,Tier 2,82521.3,4935.85,4945
+INV-00475,2024-10-10,Prime Hardware,Hardware,Machine Parts,Canada,Toronto,North America,Tier 1,73299.43,6472.79,1727
+INV-00476,2024-12-29,Metro Logistics,Hardware,Machine Parts,United States,Atlanta,North America,Tier 3,78380.11,1927.67,4454
+INV-00477,2024-10-25,Omega Office Supplies,Hardware,Machine Parts,United States,Troy,North America,Tier 3,64905.1,4663.48,3429
+INV-00478,2024-03-15,Alpha Industrial Supplies,Hardware,Tools,United States,Troy,North America,Tier 3,44909.32,573.94,473
+INV-00479,2024-03-15,Alpha Industrial Supplies,Logistics,Warehousing,United States,Detroit,North America,Tier 3,83616.72,7121.88,2427
+INV-00480,2024-11-11,Rapid Freight,Logistics,Transportation,United States,Troy,North America,Tier 1,31129.32,1861.08,4607
+INV-00481,2024-05-27,Alpha Industrial Supplies,Packaging,Corrugate,Canada,Toronto,North America,Tier 2,66881.8,6545.75,3184
+INV-00482,2024-05-08,Prime Hardware,Packaging,Plastic Packaging,United States,Atlanta,North America,Tier 3,82129.99,1307.36,3639
+INV-00483,2024-11-04,Prime Hardware,Logistics,Transportation,United States,Atlanta,North America,Tier 3,64429.05,4518.26,1595
+INV-00484,2024-03-29,Rapid Freight,Hardware,Tools,United States,Detroit,North America,Tier 1,83610.08,1521.0,3100
+INV-00485,2024-10-26,Summit Packaging,Indirect Goods & Services,Professional Services,United States,Atlanta,North America,Tier 1,47754.28,1160.78,2717
+INV-00486,2024-11-01,Alpha Industrial Supplies,Packaging,Plastic Packaging,United States,Detroit,North America,Tier 3,4355.01,488.41,2477
+INV-00487,2024-06-11,Rapid Freight,Packaging,Plastic Packaging,Canada,Toronto,North America,Tier 1,31079.19,2991.17,1516
+INV-00488,2024-06-27,Prime Hardware,Indirect Goods & Services,Office Supplies,Mexico,Mexico City,North America,Tier 1,46618.73,2534.93,2728
+INV-00489,2024-09-28,Vertex Components,Hardware,Tools,United States,Atlanta,North America,Tier 3,19349.4,1795.47,82
+INV-00490,2024-11-14,Prime Hardware,Indirect Goods & Services,Sales & Marketing,Mexico,Mexico City,North America,Tier 1,21189.22,1708.89,2639
+INV-00491,2024-01-13,Rapid Freight,Packaging,Corrugate,Mexico,Mexico City,North America,Tier 2,22553.61,2021.65,4223
+INV-00492,2024-06-13,Rapid Freight,Packaging,Labels,United States,Troy,North America,Tier 1,25900.45,2115.24,796
+INV-00493,2024-12-09,Prime Hardware,Logistics,Transportation,Canada,Toronto,North America,Tier 3,1615.77,27.79,3485
+INV-00494,2024-08-10,Global Parts Co,Indirect Goods & Services,Office Supplies,Canada,Toronto,North America,Tier 3,70614.89,7531.08,1269
+INV-00495,2024-04-01,Summit Packaging,Indirect Goods & Services,Professional Services,United States,Atlanta,North America,Tier 3,4182.45,75.52,587
+INV-00496,2024-08-09,NexGen Maintenance,Logistics,Warehousing,Mexico,Mexico City,North America,Tier 1,33594.74,2664.87,3200
+INV-00497,2024-01-24,Global Parts Co,Indirect Goods & Services,Maintenance & Repair,Canada,Toronto,North America,Tier 2,6311.96,581.05,4129
+INV-00498,2024-08-12,BlueLine Services,Indirect Goods & Services,Sales & Marketing,United States,Atlanta,North America,Tier 2,51951.53,2128.29,262
+INV-00499,2024-10-06,Summit Packaging,Packaging,Corrugate,Canada,Toronto,North America,Tier 3,19468.72,1793.9,1190
+INV-00500,2024-10-11,Metro Logistics,Hardware,Machine Parts,United States,Atlanta,North America,Tier 1,81420.9,914.07,352
