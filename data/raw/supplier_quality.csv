@@ -1,0 +1,301 @@
+defect_id,defect_date,vendor_name,plant,material_type,defect_type,defect_quantity,downtime_minutes,impact_level
+DEF-00001,2024-11-01,BlueLine Services,Mexico City Plant,Machine Parts,Rejected,42,586,Medium
+DEF-00002,2024-04-18,BlueLine Services,Mexico City Plant,Packaging,Impact,1721,352,Low
+DEF-00003,2024-04-09,Global Parts Co,Detroit Plant,Machine Parts,Rejected,1809,258,High
+DEF-00004,2024-02-07,Summit Packaging,Troy Plant,Hardware,Rejected,3779,562,Low
+DEF-00005,2024-06-18,NexGen Maintenance,Detroit Plant,Packaging,Rejected,4757,498,Medium
+DEF-00006,2024-06-11,Vertex Components,Toronto Plant,Hardware,No Impact,572,198,High
+DEF-00007,2024-10-16,Omega Office Supplies,Atlanta Plant,Hardware,Rework,4786,156,Low
+DEF-00008,2024-05-06,Prime Hardware,Toronto Plant,Hardware,No Impact,40,320,Low
+DEF-00009,2024-08-24,Vertex Components,Atlanta Plant,Hardware,Rework,2717,491,High
+DEF-00010,2024-11-26,Omega Office Supplies,Troy Plant,Hardware,Impact,892,179,High
+DEF-00011,2024-11-16,Global Parts Co,Troy Plant,Raw Materials,Rejected,1610,269,High
+DEF-00012,2024-10-29,Prime Hardware,Troy Plant,Machine Parts,No Impact,4743,414,High
+DEF-00013,2024-11-30,Metro Logistics,Atlanta Plant,Corrugate,Impact,4422,483,High
+DEF-00014,2024-08-25,Rapid Freight,Mexico City Plant,Raw Materials,Rework,2384,137,Medium
+DEF-00015,2024-12-05,Prime Hardware,Mexico City Plant,Packaging,Impact,4114,10,Medium
+DEF-00016,2024-10-16,Omega Office Supplies,Detroit Plant,Corrugate,No Impact,1305,183,Low
+DEF-00017,2024-04-28,Global Parts Co,Atlanta Plant,Hardware,Impact,1793,499,Low
+DEF-00018,2024-07-03,BlueLine Services,Toronto Plant,Corrugate,Rejected,1694,530,Low
+DEF-00019,2024-12-26,Rapid Freight,Atlanta Plant,Hardware,Impact,2655,105,Medium
+DEF-00020,2024-10-27,Global Parts Co,Mexico City Plant,Hardware,Rework,3101,374,Low
+DEF-00021,2024-06-29,NexGen Maintenance,Toronto Plant,Corrugate,Rejected,4231,415,High
+DEF-00022,2024-03-25,Prime Hardware,Troy Plant,Machine Parts,No Impact,1139,450,Low
+DEF-00023,2024-03-21,NexGen Maintenance,Mexico City Plant,Raw Materials,Impact,1231,191,Medium
+DEF-00024,2024-09-03,Vertex Components,Toronto Plant,Packaging,Impact,2706,116,High
+DEF-00025,2024-05-04,Alpha Industrial Supplies,Detroit Plant,Machine Parts,Impact,3367,22,Low
+DEF-00026,2024-10-20,Metro Logistics,Troy Plant,Packaging,No Impact,4200,40,Low
+DEF-00027,2024-11-02,Omega Office Supplies,Troy Plant,Hardware,Rejected,4233,415,Low
+DEF-00028,2024-09-03,Metro Logistics,Detroit Plant,Corrugate,Impact,3680,482,High
+DEF-00029,2024-05-15,Metro Logistics,Atlanta Plant,Corrugate,Rejected,1490,523,Low
+DEF-00030,2024-03-08,Global Parts Co,Troy Plant,Packaging,Rework,3099,394,Low
+DEF-00031,2024-03-31,Vertex Components,Mexico City Plant,Machine Parts,Rejected,4961,98,High
+DEF-00032,2024-02-17,Vertex Components,Detroit Plant,Machine Parts,Rejected,4124,120,High
+DEF-00033,2024-08-03,NexGen Maintenance,Troy Plant,Machine Parts,Rework,3535,534,Low
+DEF-00034,2024-06-28,Omega Office Supplies,Mexico City Plant,Raw Materials,Rework,3950,390,Low
+DEF-00035,2024-04-29,Global Parts Co,Atlanta Plant,Machine Parts,Rework,2086,488,Medium
+DEF-00036,2024-12-29,Alpha Industrial Supplies,Mexico City Plant,Machine Parts,Rejected,1549,5,High
+DEF-00037,2024-12-01,Prime Hardware,Atlanta Plant,Corrugate,No Impact,59,384,Low
+DEF-00038,2024-11-29,Omega Office Supplies,Atlanta Plant,Hardware,Rework,1268,436,High
+DEF-00039,2024-12-14,BlueLine Services,Detroit Plant,Corrugate,Rework,2996,282,Low
+DEF-00040,2024-10-11,Vertex Components,Atlanta Plant,Hardware,No Impact,3033,572,High
+DEF-00041,2024-12-03,Global Parts Co,Detroit Plant,Corrugate,Impact,3262,141,Low
+DEF-00042,2024-07-24,NexGen Maintenance,Mexico City Plant,Machine Parts,Rejected,1757,520,Low
+DEF-00043,2024-02-16,Metro Logistics,Toronto Plant,Machine Parts,Rework,3188,5,Low
+DEF-00044,2024-04-23,NexGen Maintenance,Troy Plant,Machine Parts,Rejected,525,269,High
+DEF-00045,2024-11-10,Rapid Freight,Atlanta Plant,Machine Parts,Rejected,3149,410,Low
+DEF-00046,2024-01-06,Prime Hardware,Mexico City Plant,Hardware,Impact,4050,449,Low
+DEF-00047,2024-09-21,Prime Hardware,Mexico City Plant,Packaging,Rejected,4912,522,Medium
+DEF-00048,2024-03-21,Global Parts Co,Atlanta Plant,Corrugate,No Impact,1960,0,High
+DEF-00049,2024-10-27,Prime Hardware,Mexico City Plant,Raw Materials,Rejected,3238,415,Low
+DEF-00050,2024-10-13,Omega Office Supplies,Atlanta Plant,Hardware,No Impact,4503,291,Low
+DEF-00051,2024-08-20,BlueLine Services,Mexico City Plant,Raw Materials,No Impact,4968,199,Low
+DEF-00052,2024-02-24,Rapid Freight,Troy Plant,Machine Parts,No Impact,3336,518,Medium
+DEF-00053,2024-05-11,Rapid Freight,Mexico City Plant,Hardware,Rework,959,525,Medium
+DEF-00054,2024-05-04,NexGen Maintenance,Toronto Plant,Corrugate,Rejected,4614,495,Medium
+DEF-00055,2024-02-04,BlueLine Services,Detroit Plant,Packaging,No Impact,953,264,Medium
+DEF-00056,2024-10-01,Alpha Industrial Supplies,Atlanta Plant,Packaging,No Impact,2893,528,Low
+DEF-00057,2024-02-08,Rapid Freight,Detroit Plant,Corrugate,No Impact,3269,350,Medium
+DEF-00058,2024-05-17,Metro Logistics,Detroit Plant,Corrugate,Impact,1791,587,Low
+DEF-00059,2024-04-15,Prime Hardware,Detroit Plant,Packaging,No Impact,1983,271,Low
+DEF-00060,2024-02-10,Vertex Components,Mexico City Plant,Raw Materials,Rejected,874,122,Medium
+DEF-00061,2024-09-09,Omega Office Supplies,Atlanta Plant,Corrugate,Impact,3041,322,High
+DEF-00062,2024-04-23,Omega Office Supplies,Detroit Plant,Raw Materials,Rework,2296,407,Medium
+DEF-00063,2024-09-14,NexGen Maintenance,Toronto Plant,Packaging,Rework,4430,33,Low
+DEF-00064,2024-06-10,Alpha Industrial Supplies,Troy Plant,Packaging,Rework,4246,471,High
+DEF-00065,2024-07-04,Omega Office Supplies,Atlanta Plant,Packaging,No Impact,826,333,Low
+DEF-00066,2024-11-09,NexGen Maintenance,Atlanta Plant,Packaging,Rework,2207,482,Medium
+DEF-00067,2024-12-24,NexGen Maintenance,Atlanta Plant,Corrugate,No Impact,1725,429,Medium
+DEF-00068,2024-03-08,Omega Office Supplies,Detroit Plant,Raw Materials,No Impact,1474,585,Low
+DEF-00069,2024-07-14,Prime Hardware,Detroit Plant,Packaging,Rework,4550,442,Low
+DEF-00070,2024-09-12,Metro Logistics,Mexico City Plant,Machine Parts,No Impact,1447,431,Medium
+DEF-00071,2024-10-14,Omega Office Supplies,Troy Plant,Corrugate,Rejected,2458,256,High
+DEF-00072,2024-04-20,Summit Packaging,Toronto Plant,Raw Materials,Rework,1339,61,High
+DEF-00073,2024-07-03,NexGen Maintenance,Mexico City Plant,Machine Parts,No Impact,2742,266,Medium
+DEF-00074,2024-03-03,NexGen Maintenance,Mexico City Plant,Packaging,Impact,163,421,Medium
+DEF-00075,2024-12-10,Rapid Freight,Toronto Plant,Corrugate,Rejected,2910,332,Medium
+DEF-00076,2024-11-19,Metro Logistics,Detroit Plant,Hardware,Rework,2348,474,High
+DEF-00077,2024-02-06,Global Parts Co,Detroit Plant,Hardware,Impact,4683,414,Medium
+DEF-00078,2024-12-29,Summit Packaging,Mexico City Plant,Corrugate,No Impact,2596,298,Medium
+DEF-00079,2024-08-18,BlueLine Services,Detroit Plant,Packaging,Rejected,2976,533,Low
+DEF-00080,2024-12-24,Global Parts Co,Detroit Plant,Packaging,Rework,1923,257,Low
+DEF-00081,2024-08-30,Rapid Freight,Troy Plant,Raw Materials,Rework,783,65,High
+DEF-00082,2024-05-14,Omega Office Supplies,Detroit Plant,Raw Materials,Rework,682,106,Medium
+DEF-00083,2024-05-25,Vertex Components,Detroit Plant,Packaging,Impact,1879,253,Low
+DEF-00084,2024-06-15,Vertex Components,Toronto Plant,Machine Parts,No Impact,288,365,High
+DEF-00085,2024-12-23,Rapid Freight,Detroit Plant,Machine Parts,Rework,3645,138,High
+DEF-00086,2024-09-25,Rapid Freight,Atlanta Plant,Hardware,Rework,4621,445,High
+DEF-00087,2024-08-14,Summit Packaging,Atlanta Plant,Corrugate,No Impact,1861,91,Low
+DEF-00088,2024-01-01,Rapid Freight,Detroit Plant,Hardware,No Impact,2487,10,Medium
+DEF-00089,2024-12-18,Vertex Components,Toronto Plant,Hardware,Rejected,4384,8,Medium
+DEF-00090,2024-01-04,Rapid Freight,Atlanta Plant,Packaging,Rework,2400,236,High
+DEF-00091,2024-05-07,Metro Logistics,Toronto Plant,Corrugate,Impact,3581,404,Medium
+DEF-00092,2024-11-16,Prime Hardware,Mexico City Plant,Machine Parts,No Impact,649,432,Medium
+DEF-00093,2024-07-30,Prime Hardware,Troy Plant,Packaging,Impact,4358,275,Medium
+DEF-00094,2024-11-12,Vertex Components,Atlanta Plant,Machine Parts,Rework,905,466,Low
+DEF-00095,2024-03-18,Alpha Industrial Supplies,Mexico City Plant,Raw Materials,Impact,2627,19,Low
+DEF-00096,2024-03-05,Vertex Components,Troy Plant,Packaging,Rejected,2312,275,Low
+DEF-00097,2024-04-21,NexGen Maintenance,Toronto Plant,Hardware,Rework,121,505,Medium
+DEF-00098,2024-06-18,Global Parts Co,Detroit Plant,Raw Materials,No Impact,3799,32,Medium
+DEF-00099,2024-08-28,Metro Logistics,Detroit Plant,Hardware,Rework,585,556,Low
+DEF-00100,2024-07-16,Vertex Components,Detroit Plant,Raw Materials,Impact,1000,254,Medium
+DEF-00101,2024-12-06,Prime Hardware,Toronto Plant,Corrugate,No Impact,770,533,Medium
+DEF-00102,2024-10-08,Rapid Freight,Troy Plant,Hardware,Rework,1300,43,High
+DEF-00103,2024-07-03,Alpha Industrial Supplies,Detroit Plant,Raw Materials,Impact,2448,203,High
+DEF-00104,2024-01-08,Metro Logistics,Atlanta Plant,Machine Parts,Rejected,3557,332,Medium
+DEF-00105,2024-01-22,Omega Office Supplies,Toronto Plant,Machine Parts,Impact,1992,9,Medium
+DEF-00106,2024-03-21,Vertex Components,Troy Plant,Machine Parts,No Impact,734,254,High
+DEF-00107,2024-07-01,Metro Logistics,Mexico City Plant,Raw Materials,Impact,492,61,Medium
+DEF-00108,2024-10-12,NexGen Maintenance,Toronto Plant,Packaging,Rejected,1907,324,High
+DEF-00109,2024-03-09,Summit Packaging,Troy Plant,Corrugate,Rework,3095,366,High
+DEF-00110,2024-12-22,Vertex Components,Detroit Plant,Machine Parts,Impact,2415,555,High
+DEF-00111,2024-08-27,Summit Packaging,Mexico City Plant,Machine Parts,Impact,2849,331,Low
+DEF-00112,2024-08-18,Summit Packaging,Atlanta Plant,Machine Parts,No Impact,4352,158,Medium
+DEF-00113,2024-07-13,Metro Logistics,Troy Plant,Machine Parts,No Impact,6,518,High
+DEF-00114,2024-02-02,Rapid Freight,Toronto Plant,Packaging,Rework,1957,328,High
+DEF-00115,2024-06-14,BlueLine Services,Atlanta Plant,Raw Materials,Rejected,1263,289,High
+DEF-00116,2024-03-07,Metro Logistics,Troy Plant,Packaging,Rejected,547,44,Medium
+DEF-00117,2024-01-17,Omega Office Supplies,Toronto Plant,Corrugate,No Impact,1570,101,Low
+DEF-00118,2024-11-06,Global Parts Co,Troy Plant,Packaging,Rework,3002,226,Low
+DEF-00119,2024-07-03,Rapid Freight,Toronto Plant,Hardware,Rejected,3835,62,High
+DEF-00120,2024-01-21,Global Parts Co,Atlanta Plant,Raw Materials,Impact,2178,541,High
+DEF-00121,2024-04-28,Rapid Freight,Toronto Plant,Packaging,Impact,796,103,High
+DEF-00122,2024-11-16,Metro Logistics,Mexico City Plant,Machine Parts,Rework,2038,583,High
+DEF-00123,2024-07-02,Vertex Components,Toronto Plant,Raw Materials,Impact,865,590,Low
+DEF-00124,2024-09-15,NexGen Maintenance,Detroit Plant,Machine Parts,Rework,4506,411,Medium
+DEF-00125,2024-06-15,NexGen Maintenance,Toronto Plant,Corrugate,No Impact,2582,563,High
+DEF-00126,2024-10-06,Prime Hardware,Toronto Plant,Machine Parts,No Impact,1972,576,Medium
+DEF-00127,2024-07-22,Alpha Industrial Supplies,Troy Plant,Hardware,Rejected,3707,458,High
+DEF-00128,2024-01-04,Summit Packaging,Detroit Plant,Packaging,No Impact,1107,309,Low
+DEF-00129,2024-09-18,Rapid Freight,Mexico City Plant,Machine Parts,Impact,2261,566,Low
+DEF-00130,2024-07-01,Metro Logistics,Detroit Plant,Hardware,No Impact,310,471,High
+DEF-00131,2024-05-11,Summit Packaging,Troy Plant,Machine Parts,Rework,2047,238,High
+DEF-00132,2024-06-15,Vertex Components,Detroit Plant,Corrugate,Rejected,1782,79,High
+DEF-00133,2024-10-22,BlueLine Services,Troy Plant,Raw Materials,No Impact,2461,38,Medium
+DEF-00134,2024-03-02,Prime Hardware,Mexico City Plant,Raw Materials,Rework,3558,426,Low
+DEF-00135,2024-01-22,NexGen Maintenance,Mexico City Plant,Machine Parts,Impact,2497,536,Medium
+DEF-00136,2024-03-19,Alpha Industrial Supplies,Toronto Plant,Corrugate,Rejected,4116,226,Low
+DEF-00137,2024-07-20,Metro Logistics,Detroit Plant,Hardware,Rejected,3539,296,Medium
+DEF-00138,2024-10-07,BlueLine Services,Atlanta Plant,Raw Materials,Rework,4682,50,High
+DEF-00139,2024-03-10,Vertex Components,Mexico City Plant,Packaging,Rework,3560,133,Medium
+DEF-00140,2024-10-14,Omega Office Supplies,Mexico City Plant,Packaging,Impact,4681,200,Low
+DEF-00141,2024-06-14,Omega Office Supplies,Troy Plant,Raw Materials,Rework,2182,440,Medium
+DEF-00142,2024-04-07,NexGen Maintenance,Atlanta Plant,Machine Parts,Rejected,2993,356,Medium
+DEF-00143,2024-11-11,Vertex Components,Mexico City Plant,Packaging,Rework,1387,358,Low
+DEF-00144,2024-12-16,NexGen Maintenance,Detroit Plant,Raw Materials,Rejected,1913,204,High
+DEF-00145,2024-11-13,Metro Logistics,Atlanta Plant,Raw Materials,No Impact,447,248,High
+DEF-00146,2024-08-18,Vertex Components,Troy Plant,Hardware,Impact,912,312,High
+DEF-00147,2024-04-14,Rapid Freight,Mexico City Plant,Hardware,Rework,4408,216,High
+DEF-00148,2024-07-11,Omega Office Supplies,Mexico City Plant,Raw Materials,No Impact,1158,18,Low
+DEF-00149,2024-04-12,Omega Office Supplies,Atlanta Plant,Raw Materials,Rework,493,290,High
+DEF-00150,2024-07-17,Summit Packaging,Atlanta Plant,Raw Materials,Rejected,69,68,Medium
+DEF-00151,2024-07-13,Rapid Freight,Troy Plant,Hardware,Rework,3167,236,High
+DEF-00152,2024-04-05,Prime Hardware,Mexico City Plant,Corrugate,Rejected,4355,90,Low
+DEF-00153,2024-06-05,NexGen Maintenance,Toronto Plant,Corrugate,Impact,2027,542,Low
+DEF-00154,2024-06-30,Summit Packaging,Detroit Plant,Machine Parts,No Impact,2841,360,Low
+DEF-00155,2024-01-16,Rapid Freight,Atlanta Plant,Packaging,Impact,2111,396,Medium
+DEF-00156,2024-02-14,BlueLine Services,Mexico City Plant,Machine Parts,Impact,3219,140,Medium
+DEF-00157,2024-03-19,BlueLine Services,Atlanta Plant,Machine Parts,No Impact,1970,586,Medium
+DEF-00158,2024-04-15,Metro Logistics,Mexico City Plant,Machine Parts,Impact,4442,134,Low
+DEF-00159,2024-03-10,BlueLine Services,Detroit Plant,Machine Parts,Impact,2532,536,Medium
+DEF-00160,2024-09-29,Global Parts Co,Detroit Plant,Hardware,Impact,556,570,High
+DEF-00161,2024-07-30,BlueLine Services,Atlanta Plant,Corrugate,No Impact,242,326,Low
+DEF-00162,2024-03-08,Metro Logistics,Troy Plant,Machine Parts,No Impact,1540,109,High
+DEF-00163,2024-11-01,Prime Hardware,Detroit Plant,Raw Materials,No Impact,4646,236,Low
+DEF-00164,2024-09-14,Omega Office Supplies,Toronto Plant,Hardware,Impact,3905,137,Medium
+DEF-00165,2024-03-11,Metro Logistics,Detroit Plant,Packaging,Rejected,4026,485,Medium
+DEF-00166,2024-07-30,Prime Hardware,Detroit Plant,Packaging,Rejected,123,276,Low
+DEF-00167,2024-12-18,NexGen Maintenance,Toronto Plant,Packaging,Rework,3599,501,Medium
+DEF-00168,2024-06-09,BlueLine Services,Mexico City Plant,Machine Parts,Rejected,343,389,High
+DEF-00169,2024-08-21,Alpha Industrial Supplies,Detroit Plant,Machine Parts,Rework,896,462,High
+DEF-00170,2024-07-17,Rapid Freight,Troy Plant,Packaging,No Impact,322,571,Medium
+DEF-00171,2024-05-26,Vertex Components,Detroit Plant,Corrugate,No Impact,3261,311,High
+DEF-00172,2024-03-13,Vertex Components,Toronto Plant,Raw Materials,Rejected,447,529,Low
+DEF-00173,2024-03-10,BlueLine Services,Toronto Plant,Hardware,Rework,4796,559,Low
+DEF-00174,2024-10-29,Prime Hardware,Toronto Plant,Raw Materials,No Impact,1466,464,Medium
+DEF-00175,2024-02-16,Global Parts Co,Toronto Plant,Hardware,Rejected,1344,126,High
+DEF-00176,2024-11-09,Metro Logistics,Toronto Plant,Machine Parts,Rework,3147,523,Low
+DEF-00177,2024-10-16,Metro Logistics,Detroit Plant,Packaging,Impact,1400,343,High
+DEF-00178,2024-06-06,Summit Packaging,Toronto Plant,Hardware,Impact,421,429,Low
+DEF-00179,2024-01-02,Omega Office Supplies,Atlanta Plant,Raw Materials,Rework,1078,207,Medium
+DEF-00180,2024-01-03,Omega Office Supplies,Toronto Plant,Packaging,Impact,4085,556,High
+DEF-00181,2024-07-28,Vertex Components,Troy Plant,Machine Parts,Rejected,3898,464,Low
+DEF-00182,2024-11-13,Rapid Freight,Detroit Plant,Raw Materials,Impact,4484,284,Low
+DEF-00183,2024-01-19,Metro Logistics,Troy Plant,Machine Parts,No Impact,452,357,Medium
+DEF-00184,2024-02-25,BlueLine Services,Detroit Plant,Packaging,No Impact,719,50,High
+DEF-00185,2024-10-14,Metro Logistics,Toronto Plant,Machine Parts,No Impact,4874,586,Low
+DEF-00186,2024-06-14,NexGen Maintenance,Toronto Plant,Raw Materials,Rework,763,306,High
+DEF-00187,2024-08-29,Metro Logistics,Troy Plant,Hardware,No Impact,532,299,High
+DEF-00188,2024-04-17,Prime Hardware,Mexico City Plant,Raw Materials,Rejected,3390,537,High
+DEF-00189,2024-09-04,Omega Office Supplies,Atlanta Plant,Corrugate,No Impact,4334,89,Medium
+DEF-00190,2024-11-15,NexGen Maintenance,Detroit Plant,Machine Parts,Rework,4305,588,High
+DEF-00191,2024-04-02,Omega Office Supplies,Detroit Plant,Hardware,Impact,4078,504,Low
+DEF-00192,2024-08-26,Global Parts Co,Detroit Plant,Machine Parts,Rework,969,24,Medium
+DEF-00193,2024-06-28,Rapid Freight,Detroit Plant,Raw Materials,Impact,373,341,High
+DEF-00194,2024-02-04,Summit Packaging,Atlanta Plant,Machine Parts,No Impact,2308,260,Low
+DEF-00195,2024-06-23,BlueLine Services,Mexico City Plant,Machine Parts,Rejected,933,341,Low
+DEF-00196,2024-06-22,Vertex Components,Toronto Plant,Raw Materials,Impact,1590,338,Medium
+DEF-00197,2024-10-01,NexGen Maintenance,Toronto Plant,Corrugate,Rejected,1273,471,High
+DEF-00198,2024-12-13,NexGen Maintenance,Mexico City Plant,Machine Parts,Rejected,2453,578,Low
+DEF-00199,2024-06-30,Global Parts Co,Detroit Plant,Hardware,Rejected,4731,339,Medium
+DEF-00200,2024-03-25,Omega Office Supplies,Mexico City Plant,Corrugate,Impact,3074,547,High
+DEF-00201,2024-12-27,NexGen Maintenance,Troy Plant,Hardware,Rework,958,315,Low
+DEF-00202,2024-07-09,Vertex Components,Atlanta Plant,Packaging,No Impact,4072,243,Low
+DEF-00203,2024-01-20,Prime Hardware,Troy Plant,Corrugate,Rejected,920,383,Medium
+DEF-00204,2024-04-07,NexGen Maintenance,Toronto Plant,Machine Parts,No Impact,4097,157,Medium
+DEF-00205,2024-09-21,Metro Logistics,Detroit Plant,Raw Materials,Rework,1174,100,Medium
+DEF-00206,2024-01-03,Summit Packaging,Troy Plant,Machine Parts,Rejected,4280,118,Medium
+DEF-00207,2024-02-22,Rapid Freight,Atlanta Plant,Raw Materials,No Impact,3825,47,High
+DEF-00208,2024-04-12,Prime Hardware,Atlanta Plant,Hardware,No Impact,1720,328,Medium
+DEF-00209,2024-03-17,Metro Logistics,Atlanta Plant,Raw Materials,Rejected,964,279,High
+DEF-00210,2024-02-22,Prime Hardware,Mexico City Plant,Hardware,No Impact,4585,526,Medium
+DEF-00211,2024-10-20,Prime Hardware,Detroit Plant,Raw Materials,No Impact,1160,290,High
+DEF-00212,2024-08-15,Alpha Industrial Supplies,Detroit Plant,Raw Materials,Rework,2775,553,High
+DEF-00213,2024-07-15,Alpha Industrial Supplies,Troy Plant,Corrugate,Rework,414,108,Low
+DEF-00214,2024-11-11,NexGen Maintenance,Atlanta Plant,Hardware,Impact,4884,456,High
+DEF-00215,2024-08-26,Omega Office Supplies,Detroit Plant,Raw Materials,Rework,4371,80,Low
+DEF-00216,2024-12-16,Vertex Components,Toronto Plant,Packaging,Impact,3733,317,Low
+DEF-00217,2024-07-19,Metro Logistics,Atlanta Plant,Hardware,Rework,2114,372,Medium
+DEF-00218,2024-08-31,Global Parts Co,Atlanta Plant,Corrugate,Rework,248,66,Low
+DEF-00219,2024-11-05,Omega Office Supplies,Detroit Plant,Machine Parts,Rejected,2313,356,Medium
+DEF-00220,2024-10-11,Global Parts Co,Atlanta Plant,Machine Parts,Rework,877,333,Medium
+DEF-00221,2024-05-02,Omega Office Supplies,Detroit Plant,Machine Parts,Impact,4838,423,Medium
+DEF-00222,2024-06-23,Prime Hardware,Mexico City Plant,Corrugate,Rework,3145,67,High
+DEF-00223,2024-12-21,Prime Hardware,Detroit Plant,Raw Materials,Rework,2804,557,Low
+DEF-00224,2024-06-15,Rapid Freight,Troy Plant,Corrugate,Impact,4852,474,Medium
+DEF-00225,2024-11-02,Global Parts Co,Mexico City Plant,Corrugate,No Impact,3325,71,Medium
+DEF-00226,2024-04-21,Metro Logistics,Mexico City Plant,Raw Materials,Impact,504,92,High
+DEF-00227,2024-09-29,Summit Packaging,Toronto Plant,Machine Parts,Rework,1223,463,Low
+DEF-00228,2024-06-02,Omega Office Supplies,Atlanta Plant,Corrugate,No Impact,1685,324,Low
+DEF-00229,2024-11-09,Rapid Freight,Toronto Plant,Packaging,No Impact,4774,8,Low
+DEF-00230,2024-01-28,Alpha Industrial Supplies,Mexico City Plant,Hardware,Rejected,3025,562,Medium
+DEF-00231,2024-08-09,Omega Office Supplies,Toronto Plant,Hardware,Rework,256,240,Medium
+DEF-00232,2024-10-06,Prime Hardware,Detroit Plant,Corrugate,Impact,3126,445,Low
+DEF-00233,2024-07-03,BlueLine Services,Detroit Plant,Hardware,Impact,4551,393,Low
+DEF-00234,2024-11-27,Alpha Industrial Supplies,Detroit Plant,Corrugate,Rework,96,73,Low
+DEF-00235,2024-11-24,BlueLine Services,Toronto Plant,Machine Parts,Rework,694,140,High
+DEF-00236,2024-09-17,BlueLine Services,Mexico City Plant,Corrugate,Rework,1473,465,Medium
+DEF-00237,2024-08-05,Omega Office Supplies,Troy Plant,Machine Parts,Rework,1850,190,High
+DEF-00238,2024-05-17,BlueLine Services,Mexico City Plant,Machine Parts,No Impact,1940,513,Low
+DEF-00239,2024-09-04,NexGen Maintenance,Troy Plant,Machine Parts,Rework,311,581,High
+DEF-00240,2024-09-26,Summit Packaging,Toronto Plant,Machine Parts,Rejected,656,145,High
+DEF-00241,2024-05-05,Vertex Components,Troy Plant,Machine Parts,No Impact,4998,90,High
+DEF-00242,2024-09-30,Alpha Industrial Supplies,Toronto Plant,Corrugate,Rework,433,351,High
+DEF-00243,2024-06-29,Summit Packaging,Atlanta Plant,Packaging,Rejected,2716,431,High
+DEF-00244,2024-10-15,Summit Packaging,Troy Plant,Corrugate,Impact,4896,311,High
+DEF-00245,2024-11-15,Alpha Industrial Supplies,Atlanta Plant,Corrugate,Rejected,423,298,Low
+DEF-00246,2024-05-22,Summit Packaging,Detroit Plant,Machine Parts,No Impact,4142,78,Medium
+DEF-00247,2024-02-27,Omega Office Supplies,Detroit Plant,Machine Parts,Impact,2105,14,High
+DEF-00248,2024-03-30,Summit Packaging,Detroit Plant,Corrugate,Impact,3659,378,High
+DEF-00249,2024-02-13,Metro Logistics,Mexico City Plant,Packaging,Rework,272,351,Medium
+DEF-00250,2024-12-04,Vertex Components,Detroit Plant,Packaging,No Impact,3139,243,Low
+DEF-00251,2024-01-27,Metro Logistics,Toronto Plant,Corrugate,Rework,2166,118,Medium
+DEF-00252,2024-04-29,BlueLine Services,Toronto Plant,Corrugate,No Impact,3902,545,Low
+DEF-00253,2024-01-07,Summit Packaging,Toronto Plant,Corrugate,No Impact,4346,445,High
+DEF-00254,2024-09-29,NexGen Maintenance,Toronto Plant,Machine Parts,No Impact,337,99,Medium
+DEF-00255,2024-02-20,Summit Packaging,Mexico City Plant,Corrugate,Rework,2215,273,High
+DEF-00256,2024-09-23,NexGen Maintenance,Detroit Plant,Hardware,Rejected,1981,199,High
+DEF-00257,2024-01-07,BlueLine Services,Troy Plant,Machine Parts,Rejected,70,69,High
+DEF-00258,2024-04-22,Summit Packaging,Atlanta Plant,Packaging,Rejected,3654,359,Low
+DEF-00259,2024-10-31,Prime Hardware,Mexico City Plant,Raw Materials,Rejected,754,58,Low
+DEF-00260,2024-07-11,Omega Office Supplies,Detroit Plant,Raw Materials,Impact,4954,133,Medium
+DEF-00261,2024-12-04,Global Parts Co,Toronto Plant,Hardware,Rework,2414,478,High
+DEF-00262,2024-03-23,Global Parts Co,Atlanta Plant,Raw Materials,Rework,2650,263,Medium
+DEF-00263,2024-05-12,Summit Packaging,Detroit Plant,Corrugate,Rejected,2726,61,Medium
+DEF-00264,2024-04-01,Vertex Components,Troy Plant,Packaging,Rework,1644,402,Low
+DEF-00265,2024-05-12,Global Parts Co,Troy Plant,Raw Materials,Rejected,871,452,High
+DEF-00266,2024-01-10,Vertex Components,Detroit Plant,Raw Materials,Rejected,2053,456,High
+DEF-00267,2024-03-18,NexGen Maintenance,Toronto Plant,Machine Parts,Rejected,3199,272,High
+DEF-00268,2024-08-11,BlueLine Services,Troy Plant,Machine Parts,Impact,4020,489,Low
+DEF-00269,2024-03-03,Omega Office Supplies,Mexico City Plant,Hardware,No Impact,3150,493,High
+DEF-00270,2024-01-29,Global Parts Co,Atlanta Plant,Machine Parts,No Impact,2481,410,Low
+DEF-00271,2024-11-27,Prime Hardware,Detroit Plant,Machine Parts,Rejected,3766,296,Medium
+DEF-00272,2024-12-22,BlueLine Services,Troy Plant,Hardware,Rework,1565,306,Low
+DEF-00273,2024-03-12,Alpha Industrial Supplies,Detroit Plant,Raw Materials,Impact,3588,194,Medium
+DEF-00274,2024-10-03,Summit Packaging,Toronto Plant,Machine Parts,Rework,3185,64,Low
+DEF-00275,2024-01-29,NexGen Maintenance,Troy Plant,Corrugate,Rejected,304,347,Low
+DEF-00276,2024-12-13,Rapid Freight,Detroit Plant,Machine Parts,Impact,4286,469,Low
+DEF-00277,2024-09-07,Alpha Industrial Supplies,Toronto Plant,Machine Parts,Rejected,303,144,Low
+DEF-00278,2024-03-29,Alpha Industrial Supplies,Atlanta Plant,Raw Materials,Rework,1070,14,High
+DEF-00279,2024-02-24,Global Parts Co,Toronto Plant,Machine Parts,Impact,1399,65,Low
+DEF-00280,2024-06-21,BlueLine Services,Atlanta Plant,Raw Materials,Impact,1661,436,Medium
+DEF-00281,2024-10-30,Metro Logistics,Atlanta Plant,Raw Materials,Rejected,1747,46,Medium
+DEF-00282,2024-03-27,NexGen Maintenance,Mexico City Plant,Packaging,Rework,1158,425,Low
+DEF-00283,2024-03-09,Global Parts Co,Mexico City Plant,Corrugate,Impact,4768,41,Low
+DEF-00284,2024-01-04,Alpha Industrial Supplies,Detroit Plant,Raw Materials,No Impact,3990,82,Medium
+DEF-00285,2024-04-15,Metro Logistics,Atlanta Plant,Machine Parts,Rework,3900,129,Medium
+DEF-00286,2024-11-08,Alpha Industrial Supplies,Mexico City Plant,Packaging,Rework,1960,178,High
+DEF-00287,2024-06-27,BlueLine Services,Troy Plant,Machine Parts,Impact,722,308,Low
+DEF-00288,2024-02-18,Omega Office Supplies,Atlanta Plant,Machine Parts,Impact,963,542,Medium
+DEF-00289,2024-01-28,Prime Hardware,Troy Plant,Packaging,Rework,1705,283,Medium
+DEF-00290,2024-12-09,Alpha Industrial Supplies,Troy Plant,Hardware,No Impact,1445,163,Low
+DEF-00291,2024-06-20,Omega Office Supplies,Toronto Plant,Raw Materials,Rejected,3561,257,High
+DEF-00292,2024-03-31,Metro Logistics,Troy Plant,Corrugate,Rejected,430,550,Low
+DEF-00293,2024-10-30,Omega Office Supplies,Atlanta Plant,Corrugate,Impact,1928,455,High
+DEF-00294,2024-02-26,NexGen Maintenance,Detroit Plant,Raw Materials,Impact,2669,235,High
+DEF-00295,2024-07-11,Prime Hardware,Troy Plant,Corrugate,Rework,3380,204,Low
+DEF-00296,2024-04-20,Omega Office Supplies,Toronto Plant,Packaging,Rework,3571,148,Medium
+DEF-00297,2024-04-09,NexGen Maintenance,Atlanta Plant,Packaging,No Impact,1118,468,Low
+DEF-00298,2024-01-31,Summit Packaging,Detroit Plant,Raw Materials,Rework,263,582,Medium
+DEF-00299,2024-06-24,Prime Hardware,Atlanta Plant,Machine Parts,Impact,3427,175,High
+DEF-00300,2024-10-10,Prime Hardware,Troy Plant,Corrugate,Rework,1393,591,Low
