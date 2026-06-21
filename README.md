@@ -1,36 +1,67 @@
-# procurement-supplier-analytics
-Procurement spend and supplier performance analytics dashboard using Python, SQL, Excel, and Power BI.
-
 # Procurement Spend & Supplier Performance Analytics
 
 ## Project Overview
-This project analyzes procurement spend, supplier discounts, category-level purchasing trends, supplier quality, defects, downtime, and cost-saving opportunities.
+This project analyzes procurement spend, supplier performance, supplier quality, category-level purchasing trends, discounts, and cost optimization opportunities using Python, SQL, Excel/CSV, and Power BI.
 
 ## Business Objective
-The goal is to support procurement teams with data-driven insights for sourcing strategy, supplier performance tracking, category management, and cost optimization.
+The goal is to support procurement and sourcing teams with data-driven insights for supplier performance tracking, category management, sourcing strategy, and cost optimization.
 
 ## Tools Used
-- Excel
 - Python
 - SQL
 - Power BI
+- Excel/CSV
+- GitHub
 
-## Key Analysis Areas
-- Spend by vendor
-- Spend by category
-- Indirect goods and services analysis
-- Supplier discount analysis
+## Dataset
+Synthetic procurement and supplier quality datasets were created for this project, inspired by Microsoft Power BI procurement and supplier quality sample business scenarios.
+
+## Key Features
+- Procurement spend analysis
 - Supplier scorecards
-- Defect and downtime analysis
-- Cost-saving opportunity analysis
+- Indirect goods and services analysis
+- Category and sub-category spend tracking
+- Supplier quality and downtime analysis
+- Cost optimization opportunity identification
+- Potential savings calculation
 
 ## Dashboard Pages
 1. Executive Overview
 2. Category Management
-3. Supplier Performance Scorecard
+3. Supplier Performance
 4. Cost Optimization
-5. Market & Supply Risk Intelligence
 
-## Dataset Source
-Microsoft Power BI sample datasets:
-https://github.com/microsoft/powerbi-desktop-samples
+## Key Insights
+- Hardware had the highest total spend across procurement categories.
+- Rapid Freight was one of the highest-spend suppliers.
+- Machine Parts and Tools were major cost-driving sub-categories.
+- Supplier quality metrics identified vendors with higher downtime and defect quantities.
+- Review Supplier opportunities highlighted high-spend and low-discount transactions.
+
+## Business Recommendations
+- Review high-spend vendors with low discount rates for renegotiation.
+- Monitor supplier downtime and defect trends through quarterly scorecards.
+- Prioritize indirect goods and services spend for category-level cost control.
+- Use supplier risk levels to support sourcing and supplier management decisions.
+- Track potential savings from improved discount negotiations.
+
+## Project Files
+- `python/create_raw_datasets.py` - creates synthetic raw procurement and supplier quality data
+- `python/data_cleaning.py` - cleans data and creates supplier scorecard
+- `sql/procurement_analysis_queries.sql` - SQL queries for spend and supplier analysis
+- `powerbi/procurement_supplier_analytics_dashboard.pbix` - Power BI dashboard
+- `screenshots/` - dashboard page screenshots
+
+## Dashboard Screenshots
+
+### Executive Overview
+![Executive Overview](screenshots/Executive%20Overview.png)
+
+### Category Management
+![Category Management](screenshots/Category%20Management.png)
+
+### Supplier Performance
+![Supplier Performance](screenshots/Supplier%20Performance.png)
+
+### Cost Optimization
+![Cost Optimization](screenshots/Cost%20Optimization.png)
